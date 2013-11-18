@@ -410,6 +410,18 @@ episodes:
     info: Perhaps this is referencing the ridiculous inventiveness of Dr. Briefs (Bulma's dad)?
     quotes:
       - quote:
+          krillin: Don't you mean "OR we'll shoot you?"
+          freeza_soldier_2: We know what we said!
+          sub: Blows up the ship
+          Toilet: SCHEISS!!!! (shit!)
+        time: "2:01"
+
+      - quote:
+          bulma: I can't believe this. We're stranded on an alien planet. It's like "Pitch Black" only our Vin Diesel is a total bitch.
+        time: "2:37"
+        explanation: Krillin is their Vin Diesel, as he's the leader of their group and bald.
+
+      - quote:
           kame: Kame house... where the beaches are fine, and the bitches are even finer
         time: "4:25"
         explanation: "In Dragonball, Roshi was obsessed with cute women"
@@ -421,24 +433,6 @@ episodes:
         references:
           1: http://www.youtube.com/watch?v=jk8SToEQPGw
 
-      - quote:
-          krillin: Don't you mean "OR we'll shoot you?"
-          freeza_soldier_2: We know what we said!
-          sub: Blows up the ship
-          Toilet: SCHEISS!!!! (shit!)
-        time: "6:03"
-
-      - quote:
-          zaacro: Uh, are you sure they're ok? They've been out for a long time.
-          raiti: Of course I'm sure zey're ok! Now just follow ze plan!
-        explanation: Zaacro and Raiti are based on the alien duo <a href=1>Oglethorpe and Emory</a> from aqua teen hunger force
-        hrefs:
-          1: http://en.wikipedia.org/wiki/List_of_Aqua_Teen_Hunger_Force_characters#Oglethorpe_and_Emory
-
-      - quote:
-          bulma: I can't believe this. We're stranded on an alien planet. It's like "Pitch Black" only our Vin Diesel is a total bitch.
-        time: "6:03"
-        explanation: Krillin is their Vin Diesel, as he's the leader of their group and bald.
 
   - title: "Episode 14: No Country for Old Namekians"
     id: ZTzOxQICJck
@@ -447,20 +441,26 @@ episodes:
           gohan: Hey, Krillin, look! The Dragon Balls!
           krillin: Whoa, those things are huge! AC/DC be damned. Jeez. These aliens are scary.  Especially that one in the front. Looks like a total FAG.
         explanation: ACDC is a band with a song called "Big Balls". "But we've got the biggest...balls of them all!"
+        time: "0:23"
 
   - title: "Episode 15: Operation Dodoria Drop"
     id: Dq4Kx51S-WM
-    info: a reference to Operation Dumbo Drop
+    info: a reference to <a href=1>Operation Dumbo Drop</a>
+    hrefs:
+      1: http://en.wikipedia.org/wiki/Operation_Dumbo_Drop
     quotes:
       - quote:
-        goku: Now, before I start training… I need the right music to train to. Let’s see here.
-        sub: Goku Pushes buttons to cycle through songs
-        paul_stanley: "Live to Win"
-        bill_conti: "Gonna Fly Now (Rocky Theme)"
-        stan_bush: "Never Surrender"
-        team_america: "Montage"
-        lazy_town: "Cooking By the Book"
-        goku: Yaaay!
+          goku: Now, before I start training… I need the right music to train to. Let’s see here.
+          sub: Goku Pushes buttons to cycle through songs
+          paul_stanley: "Live to Win"
+          bill_conti: "Gonna Fly Now (Rocky Theme)"
+          stan_bush: "Never Surrender"
+          team_america: "Montage"
+          lazy_town: "Cooking By the Book"
+          goku: Yaaay!
+        explanation: Cooking By the Book is an <a href=1>old meme</a> from the ytmnd days.
+        hrefs:
+          1: http://knowyourmeme.com/memes/cooking-by-the-book
 
 
   - title: "Episode 16: Vam Qan Namek"
@@ -487,7 +487,6 @@ episodes:
       - quote:
           king_kai: KAIO KEN!! It's in my f*cking name! Like "King Kai", as in Kaio-Sama! That is it! None of you are learning any of my techniques! Neither the Kaio Ken nor the Genki Dama!
         tien: Freaking weeaboo.
-
         explanation: a <a href=1>weeaboo</a> is "Someone who is obsessed with Japan/Japanese Culture/Anime, etc. and attempts to act as if they were Japanese, even though they're far from it."
         hrefs:
           1: http://www.urbandictionary.com/define.php?term=weeaboo
@@ -514,6 +513,7 @@ episodes:
       - quote:
           zarbon: Well, I thought he could handle it!
           freeza: Appule couldn't handle a shot of raspberry schnapps much less Vegeta! Oh, where's the damn phone, I need to make another call.
+        explanation: I just thought this was funny
 
       - quote:
           king_kai: He... hung up on me! How the hell did he even do that! Dammit, I'll call him back! Goku, I swear to God, I will ride your ass on this one!
@@ -580,3 +580,14 @@ episodes:
         explanation: "'F' is a song by the band <a href=1>Maximum the Hormone</a>, a Japanese metal band"
         references:
           1: http://en.wikipedia.org/wiki/Maximum_the_Hormone
+
+  - title: "Episode 20: Namekimania"
+    id: aossw4UUjVA
+    info: A reference to Wrestlemania.  The whole episode parodies it.  This battle resembles the tag-team, showboating style of WWF
+    hrefs:
+      1: ""
+
+    quotes:
+      - quote:
+          recoome: You see vegeta. You sit there and brag about how the Saiyans are the mightiest warriors in allll the universe.
+        explanation: Recoome is a parody of Hulk Hogan

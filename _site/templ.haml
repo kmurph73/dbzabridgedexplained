@@ -14,9 +14,10 @@
             - elsif q['quote'].class == Hash
               - q['quote'].each do |key, value|
                 <b>#{key.capitalize.gsub('_', ' ')}</b>: #{value.gsub(/\n/, '<br/>')}
+                %br
           .span12
             - if q['img']
-              %img{src: "/images/#{q['img']}", style: "float:left;width:150px;"}
+              %img{src: "images/#{q['img']}", style: "float:left;width:150px;"}
             <b>Explanation:</b> #{gsub_links(q['explanation'], q)}
           - if q['references']
             .span12
