@@ -1,0 +1,27 @@
+%h1 DBZ Abridged Joke Explanation / Voice Clarification
+- episodes.each do |e|
+  #episode{"data-youtube-id" => e['id']}
+    %h3= e['title']
+    - if e['info']
+      .span12 <b>Title explanation:</b> #{gsub_links(e['info'],e)}
+    - e['quotes'].each do |q|
+      .span12.quote
+        .row
+          .span12
+            %a.time{href: '#', target: '_blank'}= q['time']
+            - if q['quote'].class == String
+              = q['quote']
+            - elsif q['quote'].class == Hash
+              - q['quote'].each do |key, value|
+                <b>#{key.capitalize.gsub('_', ' ')}</b>: #{value.gsub(/\n/, '<br/>')}
+          .span12
+            - if q['img']
+              %img{src: "/images/#{q['img']}", style: "float:left;width:150px;"}
+            <b>Explanation:</b> #{gsub_links(q['explanation'], q)}
+          - if q['references']
+            .span12
+              %h5 References:
+              %ol
+                - q['references'].each do |key,value|
+                  %li
+                    %a{href:"#{value}", target: '_blank'}= value
