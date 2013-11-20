@@ -92,7 +92,6 @@ episodes:
 
   - title: "Episode 3: Happily Ever Afterlife"
     id: OTuMh7VDaC4
-    info: The episode is titled 'The Return of Radditz' despite Raditz never having actually been there in the first place.
     quotes:
       - quote:
           nappa: Guy who's as strong as a saibaman says what?
@@ -153,7 +152,9 @@ episodes:
 
   - title: "Episode 6: No One Ever Listens To The Magical Dragon"
     id: JJDa3irhkoI
-    info: a reference to the magical dragon
+    info: a reference to the film <a href=1>Puff the Magic Dragon</a>
+    hrefs:
+      1: http://en.wikipedia.org/wiki/Puff_the_Magic_Dragon_(film)
     quotes:
       - quote:
           helmet: You must construct additional Pylons.
@@ -314,7 +315,7 @@ episodes:
           4: http://dragonball.wikia.com/wiki/Launch
 
   - title: "Episode 10: Part 2: The Punchline (part 2)"
-    id: dPIJLU1DkiI
+    id: Bm0V0UVqFtQ
     quotes:
       - quote:
           Oozaru_Vegeta: Hey, Kakarot, what's the opposite of Christopher Walken?
@@ -322,23 +323,14 @@ episodes:
           Oozaru_Vegeta: Christopher Reeves! *smashes Goku’s legs*
           Goku: AAAAAAAOOWWW!  That was in terrible ta-a-aste.
           Oozaru_Vegeta: Don't care; evil.
-        time: "2:13"
+        time: "2:08"
         explanation: Christopher Reeves, former Superman actor, is paralyzed and thus is not 'walkin'.  Also, Vegeta's once again cognizant of being 'evil'.  See epsisode 10 at 2:16
       - quote:
           oozaru_Vegeta: Now, time to crush you like an Arlian.
           Goku: A -- what?
           oozaru_Vegeta: Exactly, now die!
         time: "2:17"
-
-      - quote:
-          nappa: Oh you-a-making-me-so-mad! Vegeta, look. I’ma firing my BLARGH (face turns into Shoop the Whoop)
-        time: "6:03"
-        explanation: >
-          <a href=1>Shoop the Whoop</a> (aka  I’M A’ FIRIN’ MAH LAZER) is a meme, derived from the Cell Saga.
-
-          Not sure where the you-a-making-me-so-mad comes from.  Maybe I Love Lucy?
-        hrefs:
-          1: http://knowyourmeme.com/memes/shoop-da-whoop-i%E2%80%99m-a%E2%80%99-firin%E2%80%99-mah-lazer
+        explanation: Arlians were the insectoid people from the bug planet that Vegeta blew up on his way to Earth
 
       - quote:
           krillin: Ah, Jesus Christ Vampire Hunter.
@@ -356,25 +348,24 @@ episodes:
           from the 1968 film Planet of the Apes.  <a href=1>Charlton</a> Heston quote.  Pretty famous.  Somehow everyone in the DBZ Abridged universe is familiar with American pop culture.
         hrefs:
           1: http://en.wikipedia.org/wiki/Charlton_Heston
-  - title: "Episode 10: Part 2: The Punchline (part 2)"
-    id: dPIJLU1DkiI
+  - title: "Episode 10 Finale"
+    id: nH_pdoCGCh4
     quotes:
-      - quote:
-          researcher1: So mister Spock, what do you make, of this...ship?
-          researcher2: Well sir, I find it highly illogical to refer to this as a "ship"; the spherical design incorporates no propulsion system. It looks more like an orbiting vessel, or a satell—whaaa!
-          researcher1: … suck it, Spock!
-        time: "6:03"
-        explanation: William Shatner had herky-jerky overacting style, similar to these researchers.
-
       - quote:
           Goku: Gohan? This is Daddy…I know you’re angry right now. But you have to focus your anger. Re-remember Icarus? *flashback to Icarus getting blasted*
           Goku: HE did it!
-        time: "6:03"
+        time: "2:17"
         explanation: >
           <a href=1>Icarus</a> is a young purple dragon that is one of Gohan's closest non-humanoid friends.  He's blown up by Turles in DBZ Tree of Might
         hrefs:
           1: http://dragonball.wikia.com/wiki/Icarus
 
+      - quote:
+          researcher1: So mister Spock, what do you make, of this...ship?
+          researcher2: Well sir, I find it highly illogical to refer to this as a "ship"; the spherical design incorporates no propulsion system. It looks more like an orbiting vessel, or a satell—whaaa!
+          researcher1: … suck it, Spock!
+        time: "3:21"
+        explanation: William Shatner had herky-jerky overacting style, similar to these researchers.
 
   - title: "Episode 11: Looks Like The Z-Warriors Are Blasting Off Again!"
     id: 9LxtXsQNLWI
@@ -383,7 +374,7 @@ episodes:
           dr_briefs: Well, I'm working on your translator, but all I can get it to do is translate the Namekian into another language I don’t understand.
           toilet: Toire de arimasu! (Japanese for "I am a toilet")
           dr_briefs: Damn moon-speak!
-        time: "6:03"
+        time: "6:18"
 
       - quote:
           bulma: Yep!  I’ve gotten everything worked out.  Well, except for one thing- we couldn’t fix the translator for the toilet.
@@ -582,7 +573,7 @@ episodes:
           1: http://en.wikipedia.org/wiki/Maximum_the_Hormone
 
   - title: "Episode 20: Namekimania"
-    id: aossw4UUjVA
+    id: 7zsZLN3Xjhc
     info: A reference to Wrestlemania.  The whole episode parodies it.  This battle resembles the tag-team, showboating style of WWF
     hrefs:
       1: ""
@@ -591,3 +582,45 @@ episodes:
       - quote:
           recoome: You see vegeta. You sit there and brag about how the Saiyans are the mightiest warriors in allll the universe.
         explanation: Recoome is a parody of Hulk Hogan
+        time: "8:35"
+      -quote:
+        goku: >
+          Krillin, I’m not gonna kill them. They’re hardly even a threat.
+          (In the style of “Mass Effect”) * Vegeta decides to kill Recoome and Burter*
+
+        Goku: Vegeta! That was not very Paragon!
+        Vegeta: Tch. Renegade for life.
+        (“Tokusentai” plays)
+        explanation: In Mass Effect, you can take your character down the Paragon (good) or Renegade (evil) path.  Vegeta is obviously a Renegade.
+
+
+  - title: "Episode 21: Stop! Celebrate and Witness, Goku's Back From 100X Fitness!"
+    id: ctd84NLgTxw
+    info: Title is a parody of the opening line in Ice Ice Baby by Vanilla Ice
+    links:
+      transcripts: http://tfsabridged.blogspot.com/2012/06/episode-21-stop-celebrate-and-witness.html
+      wikia: http://abridgedseries.wikia.com/wiki/TFS_Dragon_Ball_Z:_Abridged_Parody_Episode_21
+    quotes:
+      - quote:
+          Goku: Say, do you know where there’s a Denny’s around here?
+          Jeice: Burter! No!
+          Goku: Butter! That’ll go great on my Grand Slam!
+        explanation: <a href=1>Burter</a> is named after butter
+        hrefs:
+          1: http://dragonball.wikia.com/wiki/Burter
+
+  - title: "Episode 22: The Good, the Bad, and the Purple"
+    id: ctd84NLgTxw
+    info: Title is a take on the Eastwood movie The Good, the Bad, and the Ugly
+    links:
+      transcripts: http://tfsabridged.blogspot.com/2012/06/episode-22-good-bad-and-purple.html
+      wikia: http://abridgedseries.wikia.com/wiki/TFS_Dragon_Ball_Z:_Abridged_Parody_Episode_22
+    quotes:
+      - quote:
+          Freeza: Well, then. If this is the only course of action available to me, I accept. I’ll dispatch of this worm, and then I’ll be back for you, slug.
+          Guru: Leave my brother out of this!
+        explanation: As revealed in the TFS movie '<a href=1>Lord Slug Abridged</a>' <a href=2>Guru</a> is <a href=1>Lord Slug's</a> evil half.
+        hrefs:
+          1: http://www.youtube.com/watch?v=pqLvFfwcqfw
+          2: http://teamfourstar.wikia.com/wiki/Lord_Slug
+          3: http://teamfourstar.wikia.com/wiki/Super_Kami_Guru
