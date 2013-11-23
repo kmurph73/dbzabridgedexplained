@@ -611,7 +611,7 @@ episodes:
 
   - title: "Episode 22: The Good, the Bad, and the Purple"
     id: ctd84NLgTxw
-    info: Title is a take on the Eastwood movie The Good, the Bad, and the Ugly
+    info: A take on the Eastwood movie The Good, the Bad, and the Ugly
     links:
       transcripts: http://tfsabridged.blogspot.com/2012/06/episode-22-good-bad-and-purple.html
       wikia: http://abridgedseries.wikia.com/wiki/TFS_Dragon_Ball_Z:_Abridged_Parody_Episode_22
@@ -624,3 +624,37 @@ episodes:
           1: http://www.youtube.com/watch?v=pqLvFfwcqfw
           2: http://teamfourstar.wikia.com/wiki/Lord_Slug
           3: http://teamfourstar.wikia.com/wiki/Super_Kami_Guru
+
+  - title: "Episode 23: Grand Theft Goku"
+    id: TKl02m4lkJc
+    links:
+      transcripts: http://tfsabridged.blogspot.com/2012/06/episode-23-grand-theft-goku.html
+      wikia: http://abridgedseries.wikia.com/wiki/TFS_Dragon_Ball_Z:_Abridged_Parody_Episode_23
+    quotes:
+      - quote:
+          freeza_soldier_1: It’s called the Wilhelm Scream, man.  It’s like the one in Star Wars where the stormtrooper falls.
+        time: "1:33"
+        explanation: The <a href=1>Wilhelm Scream</a> is infamous for its widespread use in the movie industry (most notably in Star Wars).
+        hrefs:
+          1: http://en.wikipedia.org/wiki/Wilhelm_scream
+
+      - quote:
+          krillin: Huh.  Maybe if I sing to it.  I know a song that gets on everybody’s nerves!
+        time: "3:42"
+        explanation: A reference to the most annoying song in the world
+        hrefs:
+          1: http://en.wikipedia.org/wiki/Wilhelm_scream
+
+      - quote:
+          vegeta: Thank you, sir, may I have another?
+        time: "6:58"
+        explanation: A reference to Animal House
+        hrefs:
+          1: http://en.wikipedia.org/wiki/Wilhelm_scream
+
+      - quote:
+          jeice: Clever girl
+        time: "7:20"
+        explanation: Jurassic Park ref
+        hrefs:
+          1: http://en.wikipedia.org/wiki/Wilhelm_scream
