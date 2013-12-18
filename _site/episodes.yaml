@@ -583,14 +583,13 @@ episodes:
           recoome: You see vegeta. You sit there and brag about how the Saiyans are the mightiest warriors in allll the universe.
         explanation: Recoome is a parody of Hulk Hogan
         time: "8:35"
-      -quote:
+      - quote:
         goku: >
           Krillin, I’m not gonna kill them. They’re hardly even a threat.
           (In the style of “Mass Effect”) * Vegeta decides to kill Recoome and Burter*
 
         Goku: Vegeta! That was not very Paragon!
-        Vegeta: Tch. Renegade for life.
-        (“Tokusentai” plays)
+        Vegeta: Tch. Renegade for life.  (“Tokusentai” plays)
         explanation: In Mass Effect, you can take your character down the Paragon (good) or Renegade (evil) path.  Vegeta is obviously a Renegade.
 
 
@@ -658,3 +657,112 @@ episodes:
         explanation: Jurassic Park ref
         hrefs:
           1: http://en.wikipedia.org/wiki/Wilhelm_scream
+
+  - title: "Episode 24: The Best Laid Plans of Saiyans and Nameks"
+    id: SYN_VNYKz7g
+    links:
+      transcripts: http://tfsabridged.blogspot.com/2012/06/episode-24-best-laid-plans-of-saiyans.html
+      wikia: http://abridgedseries.wikia.com/wiki/TFS_Dragon_Ball_Z:_Abridged_Parody_Episode_24
+    quotes:
+      - quote:
+          freeza: We flew over an hour for this? It looks exactly the same as everywhere else on this godforsaken rock!
+          nail: Hmph. Racist.
+          freeza: Well, maybe so, but I can’t quite be a racist against a race that doesn’t exist. Like the Clorfors. Dirty, money-grubbing Clorfors. Tried to clorf me right out of my money. Blew those little bastards up is what I did.
+        explanation: Frieza, being evil, represents a caricature of a typical nazi/anti-semite here.
+        time: "0:42"
+      - quote:
+          gohan: What do you mean?
+          krillin: Well, I mean, it feels like we’ve been here for, like, a year.
+        explanation: The Frieza saga notoriously lasted for-frickin-ever
+        time: "2:19"
+      - quote:
+          vegeta: First immortality, then the bitches… (“Minnie The Moocher” plays as the three sneak off)
+        explanation: <a href=1>Minnie The Moocher</a> is a a famous jazz song.  Played in the movie The Blues Brothers
+        time: "6:41"
+        hrefs:
+          1: http://en.wikipedia.org/wiki/Minnie_the_Moocher
+
+  - title: "Episode 25: Nail is Piccolo, and so can you!"
+    info: reference to I Am America (And So Can You!)
+    id: 9ada9xsMnm4
+    links:
+      transcripts: http://tfsabridged.blogspot.com/2012/06/episode-25-nail-is-piccolo-and-so-can.html
+      wikia: http://abridgedseries.wikia.com/wiki/TFS_Dragon_Ball_Z:_Abridged_Parody_Episode_25
+    quotes:
+      - quote:
+          piccolo: Wow. Unreal! My gosh. This is amazing! I feel INCREDIBLLLLE! Yes! Yes! Yes! Yes! I can win! I feel great! I—CAN—DO—THIS—HAAA—
+        explanation: reference to Piccolo's excessive reaction to fusing with nail
+        time: ""
+      - quote:
+          king_Vegeta: Freeza, can I sit down and have a word with—
+          freeza: SHYRYUKIN! *kills King Vegeta*
+          generic_fight_game_announcer: K.O! You win!
+          freeza: Yatta.
+        explanation: street fighter thing
+      - quote:
+          freeza: (sings to “My Favorite Things”) Peaceful young races with fires on their houses, millions of voices all silenced like mouses, watching the cowards bow towards their new king; these are a few of my favorite things…
+        explanation: sound of music ref
+
+  - title: "Episode 26: Alien VS. Piccolo"
+    info: Alien vs Predator reference
+    id: rlnyjw5LUj0
+    links:
+      transcripts: http://tfsabridged.blogspot.com/2012/06/episode-25-nail-is-piccolo-and-so-can.html
+      wikia: http://abridgedseries.wikia.com/wiki/TFS_Dragon_Ball_Z:_Abridged_Parody_Episode_26
+    quotes:
+      - quote:
+          vegeta: No one ever goes to Freeza Planet 419. Not since its species miraculously repopulated.
+        explanation: aka Kanassa
+        time: ""
+      - quote:
+          freeza: So, Namekian, what do you think of my third form?
+          piccolo: I think Ridley Scott’s gonna sue somebody.
+        explanation: aliens ref
+        time: ""
+      - quote:
+          dende: Because you touch me, and you’re not getting back up again. That’s right. I’m your White Mage. And NOBODY f**ks with the White Mage. *gets blown up by Freeza*
+          explanation: White Mage
+        time: ""
+      - quote:
+          gohan: (thinking) Crap baskets
+        explanation: another great innocent Gohan cuss
+        time: ""
+
+  - title: "Episode 27: The Saiyan Formerly Known as Prince"
+    info: the artist formerly known as prince
+    id: xYpfCrJPry4
+    links:
+      transcripts: http://tfsabridged.blogspot.com/2012/06/episode-27-saiyan-formerly-known-as.html
+      wikia: http://abridgedseries.wikia.com/wiki/TFS_Dragon_Ball_Z:_Abridged_Parody_Episode_27
+    quotes:
+      - quote:
+          vegeta: Healer’s down!
+          krillin: Need a rez!
+          gohan: Out of manna!
+        explanation: rpg reference
+        time: ""
+      - quote:
+          goku: Awesome.  I’ma deck you in the schnozz!!!
+          freeza: I’m sorry, that’s a new one.  Uh...who...are you, exactly?
+        explanation: reference to past episode
+        time: ""
+
+  - title: "Episode 28: Leave it to Freezer"
+    info: Leave it to Beaver reference
+    id: FxChP7oux1E
+    links:
+      transcripts: http://tfsabridged.blogspot.com/2012/06/episode-28-leave-it-to-freezer.html
+      wikia: http://abridgedseries.wikia.com/wiki/TFS_Dragon_Ball_Z:_Abridged_Parody_Episode_28
+    quotes:
+      - quote:
+          freeza: Uagh!
+          krillin: Huh. What’s that?
+          krillin: Grooooooooossss!  *Krillin owned count: 27*
+        explanation: Frieza puke (from being spun around by Goku) nails Krillin
+        time: "8:38"
+      - quote:
+          goku: Awesome.  I’ma deck you in the schnozz!!!
+          freeza: I’m sorry, that’s a new one.  Uh...who...are you, exactly?
+        explanation: reference to past episode
+        time: ""
+
