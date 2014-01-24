@@ -30,8 +30,6 @@ episodes:
           Lani begins to say Double Sunday when he is interrupted by Vegeta3986 who then takes over the role, if you listen closely, you can recognize the voice change.
           This seems to be a reference to the two dubs.
           In the Funimation Dub, Chris Sabat voiced Vegeta, and also Raditz once when he made a reappearance in episode 89.  Lani also voices Vegeta and started out voicing raditz before being overtaken by Vegeta3986
-        references:
-          1: tfsabridged
         hrefs:
           1: http://dragonball.wikia.com/wiki/Ocean_Dub
           2: http://dragonball.wikia.com/wiki/FUNimation_Dub
@@ -105,7 +103,7 @@ episodes:
 
       - quote:
           king_yemma: Mahogany!
-        time: "0:22"
+        time: "2:33"
         explanation: "<a href=1>This</a> guy has a decent explanation.  I honestly have no idea though"
         hrefs:
           1: http://teamfourstar.com/forums/showthread.php?8594-Joke-Explanations-For-Dummies-Thread&p=117905&viewfull=1#post117905
@@ -131,7 +129,7 @@ episodes:
 
       - quote:
           nappa: Are we there yet?
-        time: "1:13"
+        time: "8:20"
         explanation: >
           A reference to the Simpsons
 
@@ -157,7 +155,7 @@ episodes:
     quotes:
       - quote:
           helmet: You must construct additional Pylons.
-        time: "4:08"
+        time: "1:22"
         explanation: Starcraft joke
 
       - quote:
@@ -189,10 +187,10 @@ episodes:
           vegeta: Oh God damn it, Nappa, nobody's going to get that.
           tien: "[off screen with echo] As a matter of fact..."
           tien: I did.
-        time: "4:31"
+        time: "5:23"
         explanation: >
           Fraggles are humanoid characters from the Muppet show <a href=1>Fraggle Rock</a>
-          that eat radishes.  Nappa's joke mistakes 'Raditz' for 'Radish' (Raditz's name is a pun on the word 'Radish').  This constitutes the second Muppet reference in DBZ abridged (the first being Piccolo singing the <a href=2>Mahna Mahna</a> song)
+          that eat radishes.  Nappa's joke mistakes 'Raditz' for 'radish' (Raditz's name is a pun on the word 'radish').  This constitutes the second Muppet reference in DBZ abridged (the first being Piccolo singing the <a href=2>Mahna Mahna</a> song)
         hrefs:
           1: http://en.wikipedia.org/wiki/Fraggle_Rock
           2: http://www.youtube.com/watch?v=8N_tupPBtWQ
@@ -215,11 +213,20 @@ episodes:
           nappa: Vegeta!  The Pokémon's on my back.
           tien: Chiaotzu!  No!
           nappa: I can't get it off, Vegeta!  Here, I'll use Rock Smash.
-        time: "1:15"
+        time: "3:27"
         explanation: >
           As TFS is fond of Pokemon references, this could very well be reference to <a href=1>Rock Smash</a>
         hrefs:
           1: http://bulbapedia.bulbagarden.net/wiki/Rock_Smash_(move)
+
+      - quote:
+          Piccolo: Oh FINE!  Krillin, GO!
+          Nappa: FOR PONYYYY!  Uagh!  He hit me!  Gaha!  He hit me too!
+        time: "5:07"
+        explanation: see <a href=1>Know your meme</a> and <a href=2>this</a>
+        hrefs:
+          1: http://knowyourmeme.com/memes/for-pony
+          2: http://i3.kym-cdn.com/entries/icons/original/000/000/282/lfg0042.gif
 
       - quote:
           krillin: Piccolo...do you have a plan?
@@ -231,7 +238,7 @@ episodes:
           krillin: Plan B, Plan B!!
           piccolo_and_krillin: KAGEBUSHIN NO JUTSU!
           nappa: Vegeta!  I can't...."Believe it".
-        time: "1:15"
+        time: "5:45"
         explanation: >
           "Full Nelson" is reference to episode 2 where Goku gets Raditz in a full nelson, and Piccolo blasts both of them.
           The latter two are Naruto references.
@@ -239,12 +246,6 @@ episodes:
           "Believe it" is Naruto's catch phrase
         hrefs:
           1: yar
-
-      - quote:
-          Piccolo: Oh FINE!  Krillin, GO!
-          Nappa: FOR PONYYYY!  Uagh!  He hit me!  Gaha!  He hit me too!
-        time: "5:07"
-        explanation: see http://knowyourmeme.com/memes/for-pony and http://i3.kym-cdn.com/entries/icons/original/000/000/282/lfg0042.gif
 
       - quote:
           vegeta: Nappa, where did your armor go?
@@ -386,7 +387,7 @@ episodes:
       - quote:
           krillin: Krillin’s log, stardate, uh, November 28th. We’ve been flying for two weeks now. Starting to feel verrrry pent up. Not just from being trapped on the ship of course, but from Bulma walking around in nothing but her UNDERWEAR! I would relieve this tension but I have no alone time as the toilet keeps SCREAMING AT ME!
           toilet: ScheiBen Sie in mein Gesicht (German for "Shit in my face")
-        time: "6:03"
+        time: "1:45"
 
       - quote:
           zaacro: Uh, are you sure they're ok? They’ve been out for a long time.
@@ -672,7 +673,7 @@ episodes:
       - quote:
           gohan: What do you mean?
           krillin: Well, I mean, it feels like we’ve been here for, like, a year.
-        explanation: The Frieza saga notoriously lasted for-frickin-ever
+        explanation: The Frieza saga notoriously lasted for-frickin-ever, despite it supposedly only spanning like a week
         time: "2:19"
       - quote:
           vegeta: First immortality, then the bitches… (“Minnie The Moocher” plays as the three sneak off)
@@ -682,7 +683,7 @@ episodes:
           1: http://en.wikipedia.org/wiki/Minnie_the_Moocher
 
   - title: "Episode 25: Nail is Piccolo, and so can you!"
-    info: reference to I Am America (And So Can You!)
+    info: reference to I Am America (And So Can You!) by Stephen Colbert
     id: 9ada9xsMnm4
     links:
       transcripts: http://tfsabridged.blogspot.com/2012/06/episode-25-nail-is-piccolo-and-so-can.html

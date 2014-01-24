@@ -1,1 +1,1 @@
-http://shmay.github.io/dbzabridgedexplained/
+http://dbzabridgedexplained.com
