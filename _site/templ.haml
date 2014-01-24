@@ -3,7 +3,8 @@ Click on the locations links (eg '0:56') to see a video of said quote
 
 - episodes.each do |e|
   #episode{"data-youtube-id" => e['id']}
-    %h3= e['title']
+    .span12
+      %h3= e['title']
     - if e['info']
       .span12 <b>Title explanation:</b> #{gsub_links(e['info'],e)}
     - e['quotes'].each do |q|
@@ -20,8 +21,9 @@ Click on the locations links (eg '0:56') to see a video of said quote
           .span12
             - if q['img']
               %img{src: "images/#{q['img']}", style: "float:left;width:150px;"}
-            <b>Explanation:</b> #{gsub_links(q['explanation'], q)}
-          - if q['references']
+            - if q['explanation'] && q['explanation'].strip.length > 0
+              <b>Explanation:</b> #{gsub_links(q['explanation'], q)}
+          - if q['references'] && q['references'].class == Hash && q['references'].keys.any?
             .span12
               %h5 References:
               %ol

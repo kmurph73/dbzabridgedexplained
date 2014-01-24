@@ -6,6 +6,15 @@ def gsub_links(thing, quote)
   if thing
     links = thing.scan /href=\d+/
 
+    if quote['references']
+      quote['references'].each do |key,val|
+        if val.match(/teamfourstar\.com\/forums/)
+          thing.gsub! /\[#{key.to_s}\]/, ''
+          quote['references'].delete key
+        end
+      end
+    end
+
     links.each do |link|
       num = link.match(/\d+/)[0].to_i
       if quote['hrefs']
@@ -14,7 +23,6 @@ def gsub_links(thing, quote)
       else
         puts "no hrefs for quote #{quote['quote']}"
       end
-
     end
 
     thing

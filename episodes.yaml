@@ -558,8 +558,8 @@ episodes:
           guldo: That's right, keep on your guard. Don't drop it, not even for an instant... Za Warudo!
           krillin: What are you... going on about... *gets crushed by steam roller*
         explanation: >
-          A reference to Dio Brando of JoJo's Bizarre Adventure. [1]  Za Warudo is his special attack... where he drops a stream roller on his opponent
-        references:
+          A reference to Dio Brando of JoJo's Bizarre Adventure. [1]  Za Warudo is his special attack... where he <a href=1>drops a stream roller</a> on his opponent
+        hrefs:
           1: http://www.youtube.com/watch?v=-bb4eLRD3To
 
       - quote:
