@@ -695,13 +695,22 @@ episodes:
         time: ""
       - quote:
           king_Vegeta: Freeza, can I sit down and have a word with—
-          freeza: SHYRYUKIN! *kills King Vegeta*
+          freeza: Shoryuken! *kills King Vegeta*
           generic_fight_game_announcer: K.O! You win!
           freeza: Yatta.
-        explanation: street fighter thing
+        explanation: >
+          <a href=1>Shoryuken</a> is a famous Street Fighter attack, which looks exactly the same as Frieza's attack here.
+          Similarly, <a href=2>Yatta</a> is the famous victory exclamation of <a href=2>Chun-li</a> from Street Fighter.
+        hrefs:
+          1: http://streetfighter.wikia.com/wiki/Shoryuken
+          2: http://en.wikipedia.org/wiki/Chun-Li
+
       - quote:
           freeza: (sings to “My Favorite Things”) Peaceful young races with fires on their houses, millions of voices all silenced like mouses, watching the cowards bow towards their new king; these are a few of my favorite things…
-        explanation: sound of music ref
+        explanation: His song is a parody of <a href=1>My Favorite Things</a>, a song made famous by <a href=2>Sound of Music</a>
+        hrefs:
+          1: http://en.wikipedia.org/wiki/My_Favorite_Things_(song)
+          2: http://www.youtube.com/watch?v=33o32C0ogVM
 
   - title: "Episode 26: Alien VS. Piccolo"
     info: Alien vs Predator reference
