@@ -17,22 +17,25 @@ episodes:
         time: "1:34"
         img: AppuleNV.png
         img-help: Appule
-        explanation: "<a href=1>Appule</a> is a reptilian looking Frieza henchman.  Apparently Raditz wanted to keep him as a pet, but Bardock thought he might accidentally kill him.  His fears may have been unjustified, given that Radditz only ever became as strong as a saibaman"
+        explanation: "<a href=1>Appule</a> is a reptilian looking Frieza henchman.  Apparently Raditz wanted to keep him as a pet, but <a href=2>Bardock</a> thought he might accidentally kill him.  His fears may have been unjustified, given that Radditz only ever became as strong as a saibaman"
         hrefs:
           1: http://dragonball.wikia.com/wiki/Appule
+          2: http://drag
 
       - quote:
           lanipator: DOUBLE SUN... [lani and Vegeta3986 fight] fine... I'm just gonna go practice my Vegeta.  Ass.
         time: "2:48"
         explanation:  >
-          Double Sun... == Double Sunday. It's one of Raditz's attacks in DragonBall Z Budokai [1]
-          As for the lani/Vegeta3986 fight, apparently there were two early DBZ dubs: the <a href=1>Ocean</a> and <a href=2>Funimation</a> dub
+          Double Sun... == <a href=3>Double Sunday</a>. It's one of <a href=4>Raditz's attacks</a> in DragonBall Z Budokai.
+          As for the lani/Vegeta3986 fight, apparently there were two early DBZ dubs: the <a href=1>Ocean</a> and <a href=2>Funimation</a> dub.
           Lani begins to say Double Sunday when he is interrupted by Vegeta3986 who then takes over the role, if you listen closely, you can recognize the voice change.
           This seems to be a reference to the two dubs.
           In the Funimation Dub, Chris Sabat voiced Vegeta, and also Raditz once when he made a reappearance in episode 89.  Lani also voices Vegeta and started out voicing raditz before being overtaken by Vegeta3986
         hrefs:
           1: http://dragonball.wikia.com/wiki/Ocean_Dub
           2: http://dragonball.wikia.com/wiki/FUNimation_Dub
+          3: http://dragonball.wikia.com/wiki/Double_Sunday
+          4: http://dragonball.wikia.com/wiki/Double_Sunday#Appearances_in_Video_Games
 
       - quote:
           lanipator: I'm drinking OJ!  Now it's Apple Juice!  Now it's beer!
@@ -117,13 +120,17 @@ episodes:
           1: http://abridgedseries.wikia.com/wiki/Lanipator
 
   - title: "Episode 4: Snakeway to Heaven"
+    info: Ref to <a href=1>Led Zeppelin's</a> <a href=2>Stairway to Heaven</a> ref
+    hrefs:
+      1: http://en.wikipedia.org/wiki/Led_Zeppelin
+      2: http://en.wikipedia.org/wiki/Stairway_to_Heaven
     id: ys7pLfOVZDE
     quotes:
       - quote:
           goz_and_mez: we are here to [clap], pump you up!
         time: "1:13"
         explanation: >
-          A parody of the German homoerotic duo <a href=1>Hans and Franz of SNL</a> (who are themselves parodies of Arnold Schwarzenegger) and Goz and Mez's similarities to them.  'Ach nein!' translates to 'Oh no!'
+          Goz and Mez are a parody of the German homoerotic duo <a href=1>Hans and Franz of SNL</a> (who are themselves parodies of Arnold Schwarzenegger).  'Ach nein!' translates to 'Oh no!'
         hrefs:
           1: http://en.wikipedia.org/wiki/Hans_and_Franz
 
@@ -141,7 +148,9 @@ episodes:
           arlian: Welcome to Oz, bitch!
         time: "4:08"
         explanation: >
-          A voice clarification mostly.  This seems to be a reference to the Wizard of Oz.
+          A reference to <strike>The Wizard of Oz</strike> <a href=1>Oz</a>, a TV series centered around an experimental prison cell block.  Much thanks to John for the correction.
+        hrefs:
+          1: http://en.wikipedia.org/wiki/Oz_(TV_series)
 
       - quote: "(Barbara Streisand's 'The Way We Were' plays) Barbara Streisand: Memories, light the corners of my mind, misty watercolor memories of the way we were."
         time: "4:08"
