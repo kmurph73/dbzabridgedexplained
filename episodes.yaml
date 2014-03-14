@@ -120,7 +120,7 @@ episodes:
           1: http://abridgedseries.wikia.com/wiki/Lanipator
 
   - title: "Episode 4: Snakeway to Heaven"
-    info: Ref to <a href=1>Led Zeppelin's</a> <a href=2>Stairway to Heaven</a> ref
+    info: Play on <a href=1>Led Zeppelin's</a> <a href=2>Stairway to Heaven</a>
     hrefs:
       1: http://en.wikipedia.org/wiki/Led_Zeppelin
       2: http://en.wikipedia.org/wiki/Stairway_to_Heaven
@@ -133,7 +133,6 @@ episodes:
           Goz and Mez are a parody of the German homoerotic duo <a href=1>Hans and Franz of SNL</a> (who are themselves parodies of Arnold Schwarzenegger).  'Ach nein!' translates to 'Oh no!'
         hrefs:
           1: http://en.wikipedia.org/wiki/Hans_and_Franz
-
       - quote:
           nappa: Are we there yet?
         time: "8:20"
@@ -165,16 +164,21 @@ episodes:
       - quote:
           helmet: You must construct additional Pylons.
         time: "1:22"
-        explanation: Starcraft joke
+        explanation: >
+          <a href=2>A meme</a> originating from the great RTS game <a href=1>Starcraft</a>.
+          As a <a href=4>Protoss</a> player you must construct <a href=3>pylons</a> in order to build more units, which is easy to forget, so you're constantly beind reminded to "construct additional pylons".
+        hrefs:
+          1: http://en.wikipedia.org/wiki/StarCraft
+          2: http://knowyourmeme.com/memes/you-must-construct-additional-pylons
+          3: http://starcraft.wikia.com/wiki/Pylon
+          4: http://starcraft.wikia.com/wiki/Protoss
 
       - quote:
           bulma: I don't get it. Why are we doing this again?
           roshi: Because my sister Baba told us to.
         time: "5:23"
         explanation: >
-          Roshi's siser
-          <a href=1>Baba</a>
-          is a fortune teller.  Knowing the future, she tells Roshi to bring Goku back.
+          Roshi's siser <a href=1>Baba</a> is a fortune teller.  Knowing the future, she tells Roshi to bring Goku back.
         hrefs:
           1: http://dragonball.wikia.com/wiki/Fortuneteller_Baba
 
@@ -199,7 +203,7 @@ episodes:
         time: "5:23"
         explanation: >
           Fraggles are humanoid characters from the Muppet show <a href=1>Fraggle Rock</a>
-          that eat radishes.  Nappa's joke mistakes 'Raditz' for 'radish' (Raditz's name is a pun on the word 'radish').  This constitutes the second Muppet reference in DBZ abridged (the first being Piccolo singing the <a href=2>Mahna Mahna</a> song)
+          that eat radishes.  Nappa mistakes 'Raditz' for 'radish' (Raditz's name is a pun on 'radish').  This constitutes the second Muppet reference in DBZ abridged (the first being Piccolo singing the <a href=2>Mahna Mahna</a> song)
         hrefs:
           1: http://en.wikipedia.org/wiki/Fraggle_Rock
           2: http://www.youtube.com/watch?v=8N_tupPBtWQ
@@ -361,7 +365,7 @@ episodes:
     id: nH_pdoCGCh4
     quotes:
       - quote:
-          Goku: Gohan? This is Daddy…I know you’re angry right now. But you have to focus your anger. Re-remember Icarus? *flashback to Icarus getting blasted*
+          Goku: Gohan? This is Daddy... I know you’re angry right now. But you have to focus your anger. Re-remember Icarus? *flashback to Icarus getting blasted*
           Goku: HE did it!
         time: "2:17"
         explanation: >
@@ -383,6 +387,7 @@ episodes:
           dr_briefs: Well, I'm working on your translator, but all I can get it to do is translate the Namekian into another language I don’t understand.
           toilet: Toire de arimasu! (Japanese for "I am a toilet")
           dr_briefs: Damn moon-speak!
+        explanation: <a href=1>Moon speak</a> is a jocular term for any language not based on the Latin alphaet.
         time: "6:18"
 
       - quote:
@@ -708,7 +713,7 @@ episodes:
           generic_fight_game_announcer: K.O! You win!
           freeza: Yatta.
         explanation: >
-          <a href=1>Shoryuken</a> is a famous Street Fighter attack, which looks exactly the same as Frieza's attack here.
+          <a href=1>Shoryuken</a> is a famous Street Fighter uppercut attack.
           Similarly, <a href=2>Yatta</a> is the famous victory exclamation of <a href=2>Chun-li</a> from Street Fighter.
         hrefs:
           1: http://streetfighter.wikia.com/wiki/Shoryuken

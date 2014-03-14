@@ -3,3 +3,4 @@ pygments: true
 javascripts :
   enabled: true
   baseUrl: "/js"
+production_url: http://johnathanmarksmith.com
