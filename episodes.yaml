@@ -3,7 +3,7 @@ episodes:
     id: TYAYI9AjFZs
     quotes:
       - quote:
-          radditz: "Did Kakarot screw this up?  Oh goddamnit, I knew we should have sent Turles"
+          - radditz: "Did Kakarot screw this up?  Oh goddamnit, I knew we should have sent Turles"
         time: "0:56"
         img: turles.png
         img-help: Turles
@@ -13,7 +13,7 @@ episodes:
           2: http://en.wikipedia.org/wiki/Dragon_Ball_Z:_The_Tree_of_Might
 
       - quote:
-          radditz: So this is why dad said I couldn't keep Appule
+          - radditz: So this is why dad said I couldn't keep Appule
         time: "1:34"
         img: AppuleNV.png
         img-help: Appule
@@ -23,7 +23,7 @@ episodes:
           2: http://drag
 
       - quote:
-          lanipator: DOUBLE SUN... [lani and Vegeta3986 fight] fine... I'm just gonna go practice my Vegeta.  Ass.
+          - lanipator: DOUBLE SUN... [lani and Vegeta3986 fight] fine... I'm just gonna go practice my Vegeta.  Ass.
         time: "2:48"
         explanation:  >
           Double Sun... == <a href=3>Double Sunday</a>. It's one of <a href=4>Raditz's attacks</a> in DragonBall Z Budokai.
@@ -38,7 +38,7 @@ episodes:
           4: http://dragonball.wikia.com/wiki/Double_Sunday#Appearances_in_Video_Games
 
       - quote:
-          lanipator: I'm drinking OJ!  Now it's Apple Juice!  Now it's beer!
+          - lanipator: I'm drinking OJ!  Now it's Apple Juice!  Now it's beer!
         time: "3:44"
         explanation: A reference to the censorship in the Ocean dub[1]
         references:
@@ -64,7 +64,7 @@ episodes:
           1: http://teamfourstar.com/forums/showthread.php?8594-Joke-Explanations-For-Dummies-Thread&p=117130&viewfull=1#post117130
 
       - quote:
-          piccolo: (singing) Da da dah da...
+          - piccolo: (singing) Da da dah da...
         time: "3:29"
         explanation: >
           Piccolo is singing the <a href=1>Mah Nà Mah Nà</a> song [1].  Perhaps made most famous the the Muppet's <a href=2>rendition</a>
@@ -75,7 +75,7 @@ episodes:
           1: http://teamfourstar.com/forums/showthread.php?8594-Joke-Explanations-For-Dummies-Thread&p=117130&viewfull=1#post117130
 
       - quote:
-          piccolo: "Makansa... makans apappa... makansappa... oh to hell with it!  Special beam cannon!"
+          - piccolo: "Makansa... makans apappa... makansappa... oh to hell with it!  Special beam cannon!"
         time: "6:15"
         explanation: >
           Piccolo was trying to say "Makankosappo", but could not pronounce it correctly. "Makankosappo" is the original japanese name for the "Special Beam Cannon". [1]
@@ -83,7 +83,7 @@ episodes:
           1: http://teamfourstar.com/forums/showthread.php?8594-Joke-Explanations-For-Dummies-Thread&p=117130&viewfull=1#post117130
 
       - quote:
-          piccolo: Riiiiccolaa... ahwwhhhhhaa!
+          - piccolo: Riiiiccolaa... ahwwhhhhhaa!
         time: "6:28"
         explanation: >
           A reference to the ricola losange ad [1]
@@ -94,7 +94,7 @@ episodes:
     id: OTuMh7VDaC4
     quotes:
       - quote:
-          nappa: Guy who's as strong as a saibaman says what?
+          - nappa: Guy who's as strong as a saibaman says what?
         time: "0:22"
         img: saibaman.jpg
         img-help: A Saibaman (not to be confused with Saiyaman)
@@ -105,14 +105,14 @@ episodes:
           1: http://dragonball.wikia.com/wiki/Saibaman
 
       - quote:
-          king_yemma: Mahogany!
+          - king_yemma: Mahogany!
         time: "2:33"
         explanation: "<a href=1>This</a> guy has a decent explanation.  I honestly have no idea though"
         hrefs:
           1: http://teamfourstar.com/forums/showthread.php?8594-Joke-Explanations-For-Dummies-Thread&p=117905&viewfull=1#post117905
 
       - quote:
-          king_yemma: And not just any Mahogany, but mahogany from Malchior 7 where the trees are 300 ft tall and breathe fire.  From these trees my desk was forged 2000 years ago using ancient blood rituals of the Malchior people.
+          - king_yemma: And not just any Mahogany, but mahogany from Malchior 7 where the trees are 300 ft tall and breathe fire.  From these trees my desk was forged 2000 years ago using ancient blood rituals of the Malchior people.
         time: "6:37"
         explanation: >
           Just another play on the mahogany joke.  Malchior 7 doesn't seem to be a reference to anything (according to Google).  The face on the malchior people is <a href=1>Lanipator</a>
@@ -127,14 +127,14 @@ episodes:
     id: ys7pLfOVZDE
     quotes:
       - quote:
-          goz_and_mez: we are here to [clap], pump you up!
+          - goz_and_mez: we are here to [clap], pump you up!
         time: "1:13"
         explanation: >
           Goz and Mez are a parody of the German homoerotic duo <a href=1>Hans and Franz of SNL</a> (who are themselves parodies of Arnold Schwarzenegger).  'Ach nein!' translates to 'Oh no!'
         hrefs:
           1: http://en.wikipedia.org/wiki/Hans_and_Franz
       - quote:
-          nappa: Are we there yet?
+          - nappa: Are we there yet?
         time: "8:20"
         explanation: >
           A reference to the Simpsons
@@ -144,7 +144,7 @@ episodes:
     info: A reference to Raid bug killing spray
     quotes:
       - quote:
-          arlian: Welcome to Oz, bitch!
+          - arlian: Welcome to Oz, bitch!
         time: "4:08"
         explanation: >
           A reference to <strike>The Wizard of Oz</strike> <a href=1>Oz</a>, a TV series centered around an experimental prison cell block.  Much thanks to John for the correction.
@@ -162,7 +162,7 @@ episodes:
       1: http://en.wikipedia.org/wiki/Puff_the_Magic_Dragon_(film)
     quotes:
       - quote:
-          helmet: You must construct additional Pylons.
+          - helmet: You must construct additional Pylons.
         time: "1:22"
         explanation: >
           <a href=2>A meme</a> originating from the great RTS game <a href=1>Starcraft</a>.
@@ -174,8 +174,8 @@ episodes:
           4: http://starcraft.wikia.com/wiki/Protoss
 
       - quote:
-          bulma: I don't get it. Why are we doing this again?
-          roshi: Because my sister Baba told us to.
+          - bulma: I don't get it. Why are we doing this again?
+          - roshi: Because my sister Baba told us to.
         time: "5:23"
         explanation: >
           Roshi's siser <a href=1>Baba</a> is a fortune teller.  Knowing the future, she tells Roshi to bring Goku back.
@@ -189,17 +189,17 @@ episodes:
       1: http://knowyourmeme.com/memes/x-in-my-y
     quotes:
       - quote:
-          jimmy: Oh my god, he blew up the cargo robot!  ...and the cargo was PEOPLE!
+          - jimmy: Oh my god, he blew up the cargo robot!  ...and the cargo was PEOPLE!
         time: "4:31"
         explanation: In the Ocean Dub, due to their steadfast refusal to mention death, they said that Nappa blew up a cargo robot [1]
         references:
           1: http://abridgedseries.wikia.com/wiki/TFS_Dragon_Ball_Z:_Abridged_Parody_Episode_7
 
       - quote:
-          nappa: But, Vegeta, then you have to worry about the Fraggles.
-          vegeta: Oh God damn it, Nappa, nobody's going to get that.
-          tien: "[off screen with echo] As a matter of fact..."
-          tien: I did.
+          - nappa: But, Vegeta, then you have to worry about the Fraggles.
+          - vegeta: Oh God damn it, Nappa, nobody's going to get that.
+          - tien: "[off screen with echo] As a matter of fact..."
+          - tien: I did.
         time: "5:23"
         explanation: >
           Fraggles are humanoid characters from the Muppet show <a href=1>Fraggle Rock</a>
@@ -214,18 +214,18 @@ episodes:
     id: GXeOlcctd9g
     quotes:
       - quote:
-          krillin: That's it!  I can't take it anymore!  I can only be pushed so far!
-          sub: video game select for Krillin
-          krillin: KRILLIN LIMIT BREEEEEAK!!!! (uses scatter shot)
-          sub: victory music from FF7
+          - krillin: That's it!  I can't take it anymore!  I can only be pushed so far!
+          - sub: video game select for Krillin
+          - krillin: KRILLIN LIMIT BREEEEEAK!!!! (uses scatter shot)
+          - sub: victory music from FF7
         time: "1:15"
         explanation: >
           A reference to Final Fantasy 7.  Your character got closer and closer to its 'limit' as it took damage.  Once the character reached its 'limit' it could perform a special attack.  After Krillin destroys his opponent, the victory music from FF7 is played
 
       - quote:
-          nappa: Vegeta!  The Pokémon's on my back.
-          tien: Chiaotzu!  No!
-          nappa: I can't get it off, Vegeta!  Here, I'll use Rock Smash.
+          - nappa: Vegeta!  The Pokémon's on my back.
+          - tien: Chiaotzu!  No!
+          - nappa: I can't get it off, Vegeta!  Here, I'll use Rock Smash.
         time: "3:27"
         explanation: >
           As TFS is fond of Pokemon references, this could very well be reference to <a href=1>Rock Smash</a>
@@ -233,8 +233,8 @@ episodes:
           1: http://bulbapedia.bulbagarden.net/wiki/Rock_Smash_(move)
 
       - quote:
-          Piccolo: Oh FINE!  Krillin, GO!
-          Nappa: FOR PONYYYY!  Uagh!  He hit me!  Gaha!  He hit me too!
+          - Piccolo: Oh FINE!  Krillin, GO!
+          - Nappa: FOR PONYYYY!  Uagh!  He hit me!  Gaha!  He hit me too!
         time: "5:07"
         explanation: see <a href=1>Know your meme</a> and <a href=2>this</a>
         hrefs:
@@ -242,15 +242,15 @@ episodes:
           2: http://i3.kym-cdn.com/entries/icons/original/000/000/282/lfg0042.gif
 
       - quote:
-          krillin: Piccolo...do you have a plan?
-          piccolo: That depends.  Can you get him in a Full Nelson?
-          krillin: Any plans that don't involve killing me?
-          piccolo: Well, there is the Multi-Form technique.
-          krillin: But doesn't that cut our power levels by...
-          piccolo: Plan A or Plan B, Krillin?
-          krillin: Plan B, Plan B!!
-          piccolo_and_krillin: KAGEBUSHIN NO JUTSU!
-          nappa: Vegeta!  I can't...."Believe it".
+          - krillin: Piccolo...do you have a plan?
+          - piccolo: That depends.  Can you get him in a Full Nelson?
+          - krillin: Any plans that don't involve killing me?
+          - piccolo: Well, there is the Multi-Form technique.
+          - krillin: But doesn't that cut our power levels by...
+          - piccolo: Plan A or Plan B, Krillin?
+          - krillin: Plan B, Plan B!!
+          - piccolo_and_krillin: KAGEBUSHIN NO JUTSU!
+          - nappa: Vegeta!  I can't...."Believe it".
         time: "5:45"
         explanation: >
           "Full Nelson" is reference to episode 2 where Goku gets Raditz in a full nelson, and Piccolo blasts both of them.
@@ -261,10 +261,9 @@ episodes:
           1: yar
 
       - quote:
-          vegeta: Nappa, where did your armor go?
-          nappa: I had a hell of a day, Vegeta.  I sank their battleship......and their whales.
-
-          aquaman (offscreen): Nooooooooooooo.......
+          - vegeta: Nappa, where did your armor go?
+          - nappa: I had a hell of a day, Vegeta.  I sank their battleship......and their whales.
+          - aquaman (offscreen): Nooooooooooooo.......
         time: "1:15"
         explanation: >
           'battleship' is a reference to the game <a href=1>Battleship</a> in which one can sink an opponent's battleships
@@ -277,16 +276,16 @@ episodes:
     id: bd2nWh6wui0
     quotes:
       - quote:
-          nappa: Midget's next! RHAAAA!!!
-          krillin: My turn, my turn, MY TURN!
-          nappa: Oh!
-          vegeta: What- Nappa, what are you doing?
-          nappa: It's his turn Vegeta, I have to wait for him.
+          - nappa: Midget's next! RHAAAA!!!
+          - krillin: My turn, my turn, MY TURN!
+          - nappa: Oh!
+          - vegeta: What- Nappa, what are you doing?
+          - nappa: It's his turn Vegeta, I have to wait for him.
         time: "1:15"
         explanation: I believe this is another FF7 reference, in which each side takes turns attacking.
 
       - quote:
-          nappa: Oh you-a-making-me-so-mad! Vegeta, look. I'ma firing my BLARGH (face turns into Shoop the Whoop)
+          - nappa: Oh you-a-making-me-so-mad! Vegeta, look. I'ma firing my BLARGH (face turns into Shoop the Whoop)
         time: "3:37"
         explanation: >
           <a href=1>Shoop the Whoop</a> (aka  I'M A’ FIRIN’ MAH LAZER) is a meme, derived from the Cell Saga.
@@ -299,23 +298,23 @@ episodes:
     id: dPIJLU1DkiI
     quotes:
       - quote:
-          goku: Yes, Gohan. Tell her. ("Coming Undone" by KoRn plays)  To put dinner on. ("Coming Undone" plays again) ‘Cause I’m hungry. (plays a third time)
+          - goku: Yes, Gohan. Tell her. ("Coming Undone" by KoRn plays)  To put dinner on. ("Coming Undone" plays again) ‘Cause I’m hungry. (plays a third time)
         time: "6:03"
         explanation: just wanted to reference the song
         hrefs:
           1: http://knowyourmeme.com/memes/shoop-da-whoop-i%E2%80%99m-a%E2%80%99-firin%E2%80%99-mah-lazer
 
       - quote:
-          narrator: Meanwhile, back at the ranch.
-          bulma: Remember when we used to do stuff? You know? Be out there with them? And help?
-          sub: They all agree
-          oolong: And remember the Red Ribbon Army?
-          sub: They all remember
-          roshi: And what about King Piccolo?
-          sub: They all remember
-          bulma: Good times, good times… Whatever happened to Launch?
-          sub: Silence
-          roshi: Who?
+          - narrator: Meanwhile, back at the ranch.
+          - bulma: Remember when we used to do stuff? You know? Be out there with them? And help?
+          - sub: They all agree
+          - oolong: And remember the Red Ribbon Army?
+          - sub: They all remember
+          - roshi: And what about King Piccolo?
+          - sub: They all remember
+          - bulma: Good times, good times… Whatever happened to Launch?
+          - sub: Silence
+          - roshi: Who?
         time: "6:03"
         explanation: >
           <a href=1>Meanwhile, back at the ranch ...</a>  is a phrase frequently used by narrators of American cowboy movies and TV shows as a segue from one scene to another.
@@ -331,22 +330,22 @@ episodes:
     id: Bm0V0UVqFtQ
     quotes:
       - quote:
-          Oozaru_Vegeta: Hey, Kakarot, what's the opposite of Christopher Walken?
-          Goku: Huh?
-          Oozaru_Vegeta: Christopher Reeves! *smashes Goku’s legs*
-          Goku: AAAAAAAOOWWW!  That was in terrible ta-a-aste.
-          Oozaru_Vegeta: Don't care; evil.
+          - Oozaru_Vegeta: Hey, Kakarot, what's the opposite of Christopher Walken?
+          - Goku: Huh?
+          - Oozaru_Vegeta: Christopher Reeves! *smashes Goku’s legs*
+          - Goku: AAAAAAAOOWWW!  That was in terrible ta-a-aste.
+          - Oozaru_Vegeta: Don't care; evil.
         time: "2:08"
         explanation: Christopher Reeves, former Superman actor, is paralyzed and thus is not 'walkin'.  Also, Vegeta's once again cognizant of being 'evil'.  See epsisode 10 at 2:16
       - quote:
-          oozaru_Vegeta: Now, time to crush you like an Arlian.
-          Goku: A -- what?
-          oozaru_Vegeta: Exactly, now die!
+          - oozaru_Vegeta: Now, time to crush you like an Arlian.
+          - Goku: A -- what?
+          - oozaru_Vegeta: Exactly, now die!
         time: "2:17"
         explanation: Arlians were the insectoid people from the bug planet that Vegeta blew up on his way to Earth
 
       - quote:
-          krillin: Ah, Jesus Christ Vampire Hunter.
+          - krillin: Ah, Jesus Christ Vampire Hunter.
         time: "3:04"
         explanation: >
           Apparently <a href=1>Jesus Christ Vampire Hunter</a> is a real film
@@ -354,8 +353,8 @@ episodes:
           1: http://en.wikipedia.org/wiki/Jesus_Christ_Vampire_Hunter
 
       - quote:
-          Gohan: Get your filthy hands off of him, you damn dirty ape!
-          Oozaru_Vegeta: Oh, very creative. And what exactly will you do if I don't?
+          - Gohan: Get your filthy hands off of him, you damn dirty ape!
+          - Oozaru_Vegeta: Oh, very creative. And what exactly will you do if I don't?
         time: "3:19"
         explanation: >
           from the 1968 film Planet of the Apes.  <a href=1>Charlton</a> Heston quote.  Pretty famous.  Somehow everyone in the DBZ Abridged universe is familiar with American pop culture.
@@ -365,8 +364,8 @@ episodes:
     id: nH_pdoCGCh4
     quotes:
       - quote:
-          Goku: Gohan? This is Daddy... I know you’re angry right now. But you have to focus your anger. Re-remember Icarus? *flashback to Icarus getting blasted*
-          Goku: HE did it!
+          - Goku: Gohan? This is Daddy... I know you’re angry right now. But you have to focus your anger. Re-remember Icarus? *flashback to Icarus getting blasted*
+          - Goku: HE did it!
         time: "2:17"
         explanation: >
           <a href=1>Icarus</a> is a young purple dragon that is one of Gohan's closest non-humanoid friends.  He's blown up by Turles in DBZ Tree of Might
@@ -374,9 +373,9 @@ episodes:
           1: http://dragonball.wikia.com/wiki/Icarus
 
       - quote:
-          researcher1: So mister Spock, what do you make, of this...ship?
-          researcher2: Well sir, I find it highly illogical to refer to this as a "ship"; the spherical design incorporates no propulsion system. It looks more like an orbiting vessel, or a satell—whaaa!
-          researcher1: … suck it, Spock!
+          - researcher1: So mister Spock, what do you make, of this...ship?
+          - researcher2: Well sir, I find it highly illogical to refer to this as a "ship"; the spherical design incorporates no propulsion system. It looks more like an orbiting vessel, or a satell—whaaa!
+          - researcher1: … suck it, Spock!
         time: "3:21"
         explanation: William Shatner had herky-jerky overacting style, similar to these researchers.
 
@@ -384,28 +383,28 @@ episodes:
     id: 9LxtXsQNLWI
     quotes:
       - quote:
-          dr_briefs: Well, I'm working on your translator, but all I can get it to do is translate the Namekian into another language I don’t understand.
-          toilet: Toire de arimasu! (Japanese for "I am a toilet")
-          dr_briefs: Damn moon-speak!
+          - dr_briefs: Well, I'm working on your translator, but all I can get it to do is translate the Namekian into another language I don’t understand.
+          - toilet: Toire de arimasu! (Japanese for "I am a toilet")
+          - dr_briefs: Damn moon-speak!
         explanation: <a href=1>Moon speak</a> is a jocular term for any language not based on the Latin alphaet.
         time: "6:18"
 
       - quote:
-          bulma: Yep!  I’ve gotten everything worked out.  Well, except for one thing- we couldn’t fix the translator for the toilet.
-          toilet: ICH BIN GEFÜLLT MIT PISSWASSER! (German for "I am filled with pee")
+          - bulma: Yep!  I’ve gotten everything worked out.  Well, except for one thing- we couldn’t fix the translator for the toilet.
+          - toilet: ICH BIN GEFÜLLT MIT PISSWASSER! (German for "I am filled with pee")
         time: "6:03"
 
   - title: "Episode 12: A Rose By Any Other Namek"
     id: 6fAQtmY2NUM
     quotes:
       - quote:
-          krillin: Krillin’s log, stardate, uh, November 28th. We’ve been flying for two weeks now. Starting to feel verrrry pent up. Not just from being trapped on the ship of course, but from Bulma walking around in nothing but her UNDERWEAR! I would relieve this tension but I have no alone time as the toilet keeps SCREAMING AT ME!
-          toilet: ScheiBen Sie in mein Gesicht (German for "Shit in my face")
+          - krillin: Krillin’s log, stardate, uh, November 28th. We’ve been flying for two weeks now. Starting to feel verrrry pent up. Not just from being trapped on the ship of course, but from Bulma walking around in nothing but her UNDERWEAR! I would relieve this tension but I have no alone time as the toilet keeps SCREAMING AT ME!
+          - toilet: ScheiBen Sie in mein Gesicht (German for "Shit in my face")
         time: "1:45"
 
       - quote:
-          zaacro: Uh, are you sure they're ok? They’ve been out for a long time.
-          raiti: Of course I'm sure zey're ok! Now just follow ze plan!
+          - zaacro: Uh, are you sure they're ok? They’ve been out for a long time.
+          - raiti: Of course I'm sure zey're ok! Now just follow ze plan!
         explanation: Zaacro and Raiti are based on <a href=1>Oglethorpe and Emory</a> from aqua teen hunger force
         hrefs:
           1: http://en.wikipedia.org/wiki/List_of_Aqua_Teen_Hunger_Force_characters#Oglethorpe_and_Emory
@@ -415,24 +414,24 @@ episodes:
     info: Perhaps this is referencing the ridiculous inventiveness of Dr. Briefs (Bulma's dad)?
     quotes:
       - quote:
-          krillin: Don't you mean "OR we'll shoot you?"
-          freeza_soldier_2: We know what we said!
-          sub: Blows up the ship
-          Toilet: SCHEISS!!!! (shit!)
+          - krillin: Don't you mean "OR we'll shoot you?"
+          - freeza_soldier_2: We know what we said!
+          - sub: Blows up the ship
+          - Toilet: SCHEISS!!!! (shit!)
         time: "2:01"
 
       - quote:
-          bulma: I can't believe this. We're stranded on an alien planet. It's like "Pitch Black" only our Vin Diesel is a total bitch.
+          - bulma: I can't believe this. We're stranded on an alien planet. It's like "Pitch Black" only our Vin Diesel is a total bitch.
         time: "2:37"
         explanation: Krillin is their Vin Diesel, as he's the leader of their group and bald.
 
       - quote:
-          kame: Kame house... where the beaches are fine, and the bitches are even finer
+          - kame: Kame house... where the beaches are fine, and the bitches are even finer
         time: "4:25"
         explanation: "In Dragonball, Roshi was obsessed with cute women"
 
       - quote:
-          kame: Can you speak up?  I'm not wearing any pants
+          - kame: Can you speak up?  I'm not wearing any pants
         time: "4:30"
         explanation: "A reference to Homer Simpson: You'll have to speak up, I'm wearing a towel[1]"
         references:
@@ -443,8 +442,8 @@ episodes:
     id: ZTzOxQICJck
     quotes:
       - quote:
-          gohan: Hey, Krillin, look! The Dragon Balls!
-          krillin: Whoa, those things are huge! AC/DC be damned.
+          - gohan: Hey, Krillin, look! The Dragon Balls!
+          - krillin: Whoa, those things are huge! AC/DC be damned.
         explanation: ACDC is a band with a song called "Big Balls". "But we've got the biggest...balls of them all!"
         time: "0:23"
 
@@ -455,14 +454,14 @@ episodes:
       1: http://en.wikipedia.org/wiki/Operation_Dumbo_Drop
     quotes:
       - quote:
-          goku: Now, before I start training… I need the right music to train to. Let’s see here.
-          sub: Goku Pushes buttons to cycle through songs
-          paul_stanley: "Live to Win"
-          bill_conti: "Gonna Fly Now (Rocky Theme)"
-          stan_bush: "Never Surrender"
-          team_america: "Montage"
-          lazy_town: "Cooking By the Book"
-          goku: Yaaay!
+          - goku: Now, before I start training… I need the right music to train to. Let’s see here.
+          - sub: Goku Pushes buttons to cycle through songs
+          - paul_stanley: "Live to Win"
+          - bill_conti: "Gonna Fly Now (Rocky Theme)"
+          - stan_bush: "Never Surrender"
+          - team_america: "Montage"
+          - lazy_town: "Cooking By the Book"
+          - goku: Yaaay!
         explanation: Cooking By the Book is an <a href=1>old meme</a> from the ytmnd days.
         hrefs:
           1: http://knowyourmeme.com/memes/cooking-by-the-book
@@ -473,15 +472,15 @@ episodes:
     info: Klingon (aka Namekian) for 'This Old Namek', a reference to <a href=4>This Old House</a>
     quotes:
       - quote:
-          sub: beginning of episode
-          namekian: And that's the story of the great drought.
-          sub: children laugh
+          - sub: beginning of episode
+          - namekian: And that's the story of the great drought.
+          - sub: children laugh
         explanation: >
           We learn in episode 30 that the great drought the result of Guru drinking all of the water (how do you think he got so fat?).
           Naturally, he shifted the blame onto the Albino Namekians, and they never heard from them again
 
       - quote:
-          vegeta: To be perfectly honest, you're not that different, you're just a lot less subtle about it OH MY GOD!  Ugh!  Agh!  (more grunting sounds)  Poit!  Zort!  Apples!
+          - vegeta: To be perfectly honest, you're not that different, you're just a lot less subtle about it OH MY GOD!  Ugh!  Agh!  (more grunting sounds)  Poit!  Zort!  Apples!
         explanation: <a href=1>'poit'</a> and <a href=2>'zort'</a> are from <a href=3>Pinky and the Brain</a>
         hrefs:
           1: http://www.urbandictionary.com/define.php?term=poit
@@ -490,8 +489,8 @@ episodes:
           4: http://en.wikipedia.org/wiki/This_Old_House
 
       - quote:
-          king_kai: KAIO KEN!! It's in my f*cking name! Like "King Kai", as in Kaio-Sama! That is it! None of you are learning any of my techniques! Neither the Kaio Ken nor the Genki Dama!
-        tien: Freaking weeaboo.
+          - king_kai: KAIO KEN!! It's in my f*cking name! Like "King Kai", as in Kaio-Sama! That is it! None of you are learning any of my techniques! Neither the Kaio Ken nor the Genki Dama!
+          - tien: Freaking weeaboo.
         explanation: a <a href=1>weeaboo</a> is "Someone who is obsessed with Japan/Japanese Culture/Anime, etc. and attempts to act as if they were Japanese, even though they're far from it."
         hrefs:
           1: http://www.urbandictionary.com/define.php?term=weeaboo
@@ -501,10 +500,10 @@ episodes:
     info: A reference to "I've got a lovely bunch of coconuts" by Merv Griffin
     quotes:
       - quote:
-          appule: "*Playing Dragonball Z video game* Take that you bastard! This one's for Eachpei!"
-          zarbon: Report!
-          sub: ...
-          appule: You know, Vegeta, I got to admit it was pretty impressive how you went all man hunter on us. But now you're all ours, and I can't wait to watch Zarbon break you like a glue stick…  [Vegeta awakens]Here I come Eachpei!
+          - appule: "*Playing Dragonball Z video game* Take that you bastard! This one's for Eachpei!"
+          - zarbon: Report!
+          - sub: ...
+          - appule: You know, Vegeta, I got to admit it was pretty impressive how you went all man hunter on us. But now you're all ours, and I can't wait to watch Zarbon break you like a glue stick…  [Vegeta awakens]Here I come Eachpei!
         explanation: >
           Eachpei is Appule's brother. Eachpei is a pun on Peach. 'Cause all of Freeza's henchmen are named after Fruit. [1]
           Eachpei makes an appearance in the TFS Bardock Special, where he says 'Tell my brother, Appule, I love him!' before he's killed by Bardock.[2]
@@ -513,35 +512,37 @@ episodes:
           2: http://youtu.be/kIDHDif7fmo?t=8m54s
 
       - quote:
-          vegeta: (To "A Lovely Bunch of Coconuts") I've got a lovely bunch of dragon balls, doo doo doo doo doo doo
+          - vegeta: (To "A Lovely Bunch of Coconuts") I've got a lovely bunch of dragon balls, doo doo doo doo doo doo
 
       - quote:
-          zarbon: Well, I thought he could handle it!
-          freeza: Appule couldn't handle a shot of raspberry schnapps much less Vegeta! Oh, where's the damn phone, I need to make another call.
+          - zarbon: Well, I thought he could handle it!
+          - freeza: Appule couldn't handle a shot of raspberry schnapps much less Vegeta! Oh, where's the damn phone, I need to make another call.
         explanation: I just thought this was funny
 
       - quote:
-          king_kai: He... hung up on me! How the hell did he even do that! Dammit, I'll call him back! Goku, I swear to God, I will ride your ass on this one!
-          george_takei: Oh my...
+          - king_kai: He... hung up on me! How the hell did he even do that! Dammit, I'll call him back! Goku, I swear to God, I will ride your ass on this one!
+          - george_takei: Oh my...
         explanation: George Takei is a famously gay actor who played Mr. Sulu in Star Trek. <a href=1>HT</a>
         hrefs:
            1: http://teamfourstar.com/forums/showthread.php?8594-Joke-Explanations-For-Dummies-Thread&p=120543&viewfull=1#post120543
 
   - title: "Episode 18: It's a Mad, Mad, Mad, Mad Saiyan"
     id: bsPujgqpx8w
-    info: A reference to "I've got a lovely bunch of coconuts" by Merv Griffin
+    info: Play on that <a href=1>Mad World</a> song
+    hrefs:
+      1: http://en.wikipedia.org/wiki/Mad_World
     quotes:
       - quote:
-        vegeta: >
-          Ya know, I could kill both of you right now, but after killing Zarbon and getting this last Dragon Ball, I'm in a good mood.  I'm in a REALLY good mood.  But just remember this: Next time you see me, I WILL be immortal.  ...not that you stood a chance to begin with, I'm just.... Saiyan.
-        sub: laughter
-        vegeta: Waka waka!
+          - vegeta: >
+            Ya know, I could kill both of you right now, but after killing Zarbon and getting this last Dragon Ball, I'm in a good mood.  I'm in a REALLY good mood.  But just remember this: Next time you see me, I WILL be immortal.  ...not that you stood a chance to begin with, I'm just.... Saiyan.
+          - sub: laughter
+          - vegeta: Waka waka!
         explanation: <a href=1>This</a> is the only thing I could find
         hrefs:
           1: http://en.wikipedia.org/wiki/Waka_Waka_(This_Time_for_Africa)
 
       - quote:
-          krillin: DO AS I SAY, FOR I AM THE HEAVENLY BUDDHA!
+          - krillin: DO AS I SAY, FOR I AM THE HEAVENLY BUDDHA!
         explanation: Krillin is a Buddhist asshole
 
   - title: "Episode 19: 到着を恐怖!! 敬礼, ギニュー特戦隊!!"
@@ -551,37 +552,37 @@ episodes:
       1: http://translate.google.com/#ja/en/%E5%88%B0%E7%9D%80%E3%82%92%E6%81%90%E6%80%96!!%20%E6%95%AC%E7%A4%BC%2C%20%E3%82%AE%E3%83%8B%E3%83%A5%E3%83%BC%E7%89%B9%E6%88%A6%E9%9A%8A!!
     quotes:
       - quote:
-          gohan: Vegeta? You don't mind me asking, what are we in for?
-          vegeta: You ever watched Power Rangers?
-          gohan: No.
-          vegeta: Ninja Turtles?
-          gohan: No.
-          vegeta: Sailor Moon?
-          gohan: No.
-          vegeta: Beetle Borgs?
-          gohan: No.
-          vegeta: V.R. Troopers?
-          gohan: No.
-          vegeta: Samurai Cyber-Squad?
-          gohan: No.
-          vegeta: ...Tattooed Teenage Alien Fighters From Beverly Hills?
-          gohan: Oh, yeah!
-          vegeta: Goddammit!
+          - gohan: Vegeta? You don't mind me asking, what are we in for?
+          - vegeta: You ever watched Power Rangers?
+          - gohan: No.
+          - vegeta: Ninja Turtles?
+          - gohan: No.
+          - vegeta: Sailor Moon?
+          - gohan: No.
+          - vegeta: Beetle Borgs?
+          - gohan: No.
+          - vegeta: V.R. Troopers?
+          - gohan: No.
+          - vegeta: Samurai Cyber-Squad?
+          - gohan: No.
+          - vegeta: ...Tattooed Teenage Alien Fighters From Beverly Hills?
+          - gohan: Oh, yeah!
+          - vegeta: Goddammit!
         explanation: nada
 
       - quote:
-          guldo: That's right, keep on your guard. Don't drop it, not even for an instant... Za Warudo!
-          krillin: What are you... going on about... *gets crushed by steam roller*
+          - guldo: That's right, keep on your guard. Don't drop it, not even for an instant... Za Warudo!
+          - krillin: What are you... going on about... *gets crushed by steam roller*
         explanation: >
           A reference to Dio Brando of JoJo's Bizarre Adventure. [1]  Za Warudo is his special attack... where he <a href=1>drops a stream roller</a> on his opponent
         hrefs:
           1: http://www.youtube.com/watch?v=-bb4eLRD3To
 
       - quote:
-          freeza: Good. And they have the ringtone I wanted?
-          ginyu: Yes Sir.
-          sub: "Scouter plays Maximum the Hormone: F"
-          scouter: Frieza, Frieza, Frieza, Frieza!
+          - freeza: Good. And they have the ringtone I wanted?
+          - ginyu: Yes Sir.
+          - sub: "Scouter plays Maximum the Hormone: F"
+          - scouter: Frieza, Frieza, Frieza, Frieza!
         explanation: "'F' is a song by the band <a href=1>Maximum the Hormone</a>, a Japanese metal band"
         references:
           1: http://en.wikipedia.org/wiki/Maximum_the_Hormone
@@ -594,18 +595,17 @@ episodes:
 
     quotes:
       - quote:
-          recoome: You see vegeta. You sit there and brag about how the Saiyans are the mightiest warriors in allll the universe.
+          - recoome: You see vegeta. You sit there and brag about how the Saiyans are the mightiest warriors in allll the universe.
         explanation: Recoome is a parody of Hulk Hogan
         time: "8:35"
       - quote:
-        goku: >
-          Krillin, I’m not gonna kill them. They’re hardly even a threat.
-          (In the style of “Mass Effect”) * Vegeta decides to kill Recoome and Burter*
+          - goku: >
+              Krillin, I’m not gonna kill them. They’re hardly even a threat.
+              (In the style of “Mass Effect”) * Vegeta decides to kill Recoome and Burter*
 
-        Goku: Vegeta! That was not very Paragon!
-        Vegeta: Tch. Renegade for life.  (“Tokusentai” plays)
+          - goku: Vegeta! That was not very Paragon!
+          - vegeta: Tch. Renegade for life.  (“Tokusentai” plays)
         explanation: In Mass Effect, you can take your character down the Paragon (good) or Renegade (evil) path.  Vegeta is obviously a Renegade.
-
 
   - title: "Episode 21: Stop! Celebrate and Witness, Goku's Back From 100X Fitness!"
     id: ctd84NLgTxw
@@ -615,9 +615,9 @@ episodes:
       wikia: http://abridgedseries.wikia.com/wiki/TFS_Dragon_Ball_Z:_Abridged_Parody_Episode_21
     quotes:
       - quote:
-          Goku: Say, do you know where there’s a Denny’s around here?
-          Jeice: Burter! No!
-          Goku: Butter! That’ll go great on my Grand Slam!
+          - goku: Say, do you know where there’s a Denny’s around here?
+          - jeice: Burter! No!
+          - goku: Butter! That’ll go great on my Grand Slam!
         explanation: <a href=1>Burter</a> is named after butter
         hrefs:
           1: http://dragonball.wikia.com/wiki/Burter
@@ -630,8 +630,8 @@ episodes:
       wikia: http://abridgedseries.wikia.com/wiki/TFS_Dragon_Ball_Z:_Abridged_Parody_Episode_22
     quotes:
       - quote:
-          Freeza: Well, then. If this is the only course of action available to me, I accept. I’ll dispatch of this worm, and then I’ll be back for you, slug.
-          Guru: Leave my brother out of this!
+          - freeza: Well, then. If this is the only course of action available to me, I accept. I’ll dispatch of this worm, and then I’ll be back for you, slug.
+          - guru: Leave my brother out of this!
         explanation: As revealed in the TFS movie '<a href=1>Lord Slug Abridged</a>' <a href=2>Guru</a> is <a href=1>Lord Slug's</a> evil half.
         hrefs:
           1: http://www.youtube.com/watch?v=pqLvFfwcqfw
@@ -645,28 +645,28 @@ episodes:
       wikia: http://abridgedseries.wikia.com/wiki/TFS_Dragon_Ball_Z:_Abridged_Parody_Episode_23
     quotes:
       - quote:
-          freeza_soldier_1: It’s called the Wilhelm Scream, man.  It’s like the one in Star Wars where the stormtrooper falls.
+          - freeza_soldier_1: It’s called the Wilhelm Scream, man.  It’s like the one in Star Wars where the stormtrooper falls.
         time: "1:33"
         explanation: The <a href=1>Wilhelm Scream</a> is infamous for its widespread use in the movie industry (most notably in Star Wars).
         hrefs:
           1: http://en.wikipedia.org/wiki/Wilhelm_scream
 
       - quote:
-          krillin: Huh.  Maybe if I sing to it.  I know a song that gets on everybody’s nerves!
+          - krillin: Huh.  Maybe if I sing to it.  I know a song that gets on everybody’s nerves!
         time: "3:42"
         explanation: A reference to the most annoying song in the world
         hrefs:
           1: http://en.wikipedia.org/wiki/Wilhelm_scream
 
       - quote:
-          vegeta: Thank you, sir, may I have another?
+          - vegeta: Thank you, sir, may I have another?
         time: "6:58"
         explanation: A reference to Animal House
         hrefs:
           1: http://en.wikipedia.org/wiki/Wilhelm_scream
 
       - quote:
-          jeice: Clever girl
+          - jeice: Clever girl
         time: "7:20"
         explanation: Jurassic Park ref
         hrefs:
@@ -679,18 +679,18 @@ episodes:
       wikia: http://abridgedseries.wikia.com/wiki/TFS_Dragon_Ball_Z:_Abridged_Parody_Episode_24
     quotes:
       - quote:
-          freeza: We flew over an hour for this? It looks exactly the same as everywhere else on this godforsaken rock!
-          nail: Hmph. Racist.
-          freeza: Well, maybe so, but I can’t quite be a racist against a race that doesn’t exist. Like the Clorfors. Dirty, money-grubbing Clorfors. Tried to clorf me right out of my money. Blew those little bastards up is what I did.
+          - freeza: We flew over an hour for this? It looks exactly the same as everywhere else on this godforsaken rock!
+          - nail: Hmph. Racist.
+          - freeza: Well, maybe so, but I can’t quite be a racist against a race that doesn’t exist. Like the Clorfors. Dirty, money-grubbing Clorfors. Tried to clorf me right out of my money. Blew those little bastards up is what I did.
         explanation: Frieza, being evil, represents a caricature of a typical nazi/anti-semite here.
         time: "0:42"
       - quote:
-          gohan: What do you mean?
-          krillin: Well, I mean, it feels like we’ve been here for, like, a year.
+          - gohan: What do you mean?
+          - krillin: Well, I mean, it feels like we’ve been here for, like, a year.
         explanation: The Frieza saga notoriously lasted for-frickin-ever, despite it supposedly only spanning like a week
         time: "2:19"
       - quote:
-          vegeta: First immortality, then the bitches… (“Minnie The Moocher” plays as the three sneak off)
+          - vegeta: First immortality, then the bitches… (“Minnie The Moocher” plays as the three sneak off)
         explanation: <a href=1>Minnie The Moocher</a> is a a famous jazz song.  Played in the movie The Blues Brothers
         time: "6:41"
         hrefs:
@@ -704,14 +704,14 @@ episodes:
       wikia: http://abridgedseries.wikia.com/wiki/TFS_Dragon_Ball_Z:_Abridged_Parody_Episode_25
     quotes:
       - quote:
-          piccolo: Wow. Unreal! My gosh. This is amazing! I feel INCREDIBLLLLE! Yes! Yes! Yes! Yes! I can win! I feel great! I—CAN—DO—THIS—HAAA—
+          - piccolo: Wow. Unreal! My gosh. This is amazing! I feel INCREDIBLLLLE! Yes! Yes! Yes! Yes! I can win! I feel great! I—CAN—DO—THIS—HAAA—
         explanation: reference to Piccolo's excessive reaction to fusing with nail
         time: ""
       - quote:
-          king_Vegeta: Freeza, can I sit down and have a word with—
-          freeza: Shoryuken! *kills King Vegeta*
-          generic_fight_game_announcer: K.O! You win!
-          freeza: Yatta.
+          - king_Vegeta: Freeza, can I sit down and have a word with—
+          - freeza: Shoryuken!
+          - generic_fight_game_announcer: K.O! You win!
+          - freeza: Yatta.
         explanation: >
           <a href=1>Shoryuken</a> is a famous Street Fighter uppercut attack.
           Similarly, <a href=2>Yatta</a> is the famous victory exclamation of <a href=2>Chun-li</a> from Street Fighter.
@@ -720,7 +720,7 @@ episodes:
           2: http://en.wikipedia.org/wiki/Chun-Li
 
       - quote:
-          freeza: (sings to “My Favorite Things”) Peaceful young races with fires on their houses, millions of voices all silenced like mouses, watching the cowards bow towards their new king; these are a few of my favorite things…
+          - freeza: (sings to “My Favorite Things”) Peaceful young races with fires on their houses, millions of voices all silenced like mouses, watching the cowards bow towards their new king; these are a few of my favorite things…
         explanation: His song is a parody of <a href=1>My Favorite Things</a>, a song made famous by <a href=2>Sound of Music</a>
         hrefs:
           1: http://en.wikipedia.org/wiki/My_Favorite_Things_(song)
@@ -734,20 +734,20 @@ episodes:
       wikia: http://abridgedseries.wikia.com/wiki/TFS_Dragon_Ball_Z:_Abridged_Parody_Episode_26
     quotes:
       - quote:
-          vegeta: No one ever goes to Freeza Planet 419. Not since its species miraculously repopulated.
+          - vegeta: No one ever goes to Freeza Planet 419. Not since its species miraculously repopulated.
         explanation: aka Kanassa
         time: ""
       - quote:
-          freeza: So, Namekian, what do you think of my third form?
-          piccolo: I think Ridley Scott’s gonna sue somebody.
+          - freeza: So, Namekian, what do you think of my third form?
+          - piccolo: I think Ridley Scott’s gonna sue somebody.
         explanation: aliens ref
         time: ""
       - quote:
-          dende: Because you touch me, and you’re not getting back up again. That’s right. I’m your White Mage. And NOBODY f**ks with the White Mage. *gets blown up by Freeza*
-          explanation: White Mage
+          - dende: Because you touch me, and you’re not getting back up again. That’s right. I’m your White Mage. And NOBODY f**ks with the White Mage. *gets blown up by Freeza*
+        explanation: White Mage
         time: ""
       - quote:
-          gohan: (thinking) Crap baskets
+          - gohan: (thinking) Crap baskets
         explanation: another great innocent Gohan cuss
         time: ""
 
@@ -759,14 +759,14 @@ episodes:
       wikia: http://abridgedseries.wikia.com/wiki/TFS_Dragon_Ball_Z:_Abridged_Parody_Episode_27
     quotes:
       - quote:
-          vegeta: Healer’s down!
-          krillin: Need a rez!
-          gohan: Out of manna!
+          - vegeta: Healer’s down!
+          - krillin: Need a rez!
+          - gohan: Out of manna!
         explanation: rpg reference
         time: ""
       - quote:
-          goku: Awesome.  I’ma deck you in the schnozz!!!
-          freeza: I’m sorry, that’s a new one.  Uh...who...are you, exactly?
+          - goku: Awesome.  I’ma deck you in the schnozz!!!
+          - freeza: I’m sorry, that’s a new one.  Uh...who...are you, exactly?
         explanation: reference to past episode
         time: ""
 
@@ -778,14 +778,14 @@ episodes:
       wikia: http://abridgedseries.wikia.com/wiki/TFS_Dragon_Ball_Z:_Abridged_Parody_Episode_28
     quotes:
       - quote:
-          freeza: Uagh!
-          krillin: Huh. What’s that?
-          krillin: Grooooooooossss! *Krillin owned count 27*
+          - freeza: Uagh!
+          - krillin: Huh. What’s that?
+          - krillin: Grooooooooossss! *Krillin owned count 27*
         explanation: Frieza puke (from being spun around by Goku) nails Krillin
         time: "8:38"
       - quote:
-          goku: Awesome.  I’ma deck you in the schnozz!!!
-          freeza: I’m sorry, that’s a new one.  Uh...who...are you, exactly?
+          - goku: Awesome.  I’ma deck you in the schnozz!!!
+          - freeza: I’m sorry, that’s a new one.  Uh...who...are you, exactly?
         explanation: reference to past episode
         time: ""
 

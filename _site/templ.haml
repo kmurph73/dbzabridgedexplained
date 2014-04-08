@@ -14,10 +14,13 @@ Click on the locations links (eg '0:56') to see a video of said quote
             %a.time{href: '#', target: '_blank'}= q['time']
             - if q['quote'].class == String
               = q['quote']
-            - elsif q['quote'].class == Hash
-              - q['quote'].each do |key, value|
-                <b>#{key.capitalize.gsub('_', ' ')}</b>: #{value.gsub(/\n/, '<br/>')}
+            - elsif q['quote'].class == Array
+              - q['quote'].each do |hash|
+                <b>#{hash.keys[0].capitalize.gsub('_', ' ')}</b>: #{hash.values[0].gsub(/\n/, '<br/>')}
                 %br
+            - else
+              - puts 'AHHHHHHHHHH!!!!!'
+              - puts q
           .span12
             - if q['img']
               %img{src: "images/#{q['img']}", style: "float:left;width:150px;"}

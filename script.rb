@@ -1,6 +1,6 @@
 require 'yaml'
 require 'haml'
-require 'debugger'
+require 'byebug'
 
 def gsub_links(thing, quote)
   if thing
