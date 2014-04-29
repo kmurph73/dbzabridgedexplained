@@ -1,5 +1,7 @@
 episodes:
   - title: "Episode 1: The Return of Radditz! ... Wait..."
+    transcripts: http://tfsabridged.blogspot.com/2012/05/episode-1-return-of-raditz.html
+    wikia: http://abridgedseries.wikia.com/wiki/TFS_Dragon_Ball_Z:_Abridged_Parody_Episode_1
     id: TYAYI9AjFZs
     quotes:
       - quote:
@@ -27,7 +29,7 @@ episodes:
         time: "2:48"
         explanation:  >
           Double Sun... == <a href=3>Double Sunday</a>. It's one of <a href=4>Raditz's attacks</a> in DragonBall Z Budokai.
-          As for the lani/Vegeta3986 fight, apparently there were two early DBZ dubs: the <a href=1>Ocean</a> and <a href=2>Funimation</a> dub.
+          As for the lani/Vegeta3986 fight, apparently there were two early DBZ dubs: the <a href=1>Ocean</a> (heavily censored and edited) and <a href=2>Funimation</a> (far more faithful to the Japanese original) dub.
           Lani begins to say Double Sunday when he is interrupted by Vegeta3986 who then takes over the role, if you listen closely, you can recognize the voice change.
           This seems to be a reference to the two dubs.
           In the Funimation Dub, Chris Sabat voiced Vegeta, and also Raditz once when he made a reappearance in episode 89.  Lani also voices Vegeta and started out voicing raditz before being overtaken by Vegeta3986
@@ -56,6 +58,8 @@ episodes:
 
   - title: "Episode 2: And They All Lived Happily Ever... Oh.."
     id: aBm_2IUn4MU
+    transcripts: http://tfsabridged.blogspot.com/2012/05/episode-2-and-they-all-lived-happily.html
+    wikia: http://abridgedseries.wikia.com/wiki/TFS_Dragon_Ball_Z:_Abridged_Parody_Episode_3
     quotes:
       - quote: Ha ha! Dangly parts.
         time: "2:01"
@@ -92,6 +96,8 @@ episodes:
 
   - title: "Episode 3: Happily Ever Afterlife"
     id: OTuMh7VDaC4
+    transcripts: http://tfsabridged.blogspot.com/2012/05/episode-3-happily-ever-afterlife.html
+    wikia: http://abridgedseries.wikia.com/wiki/TFS_Dragon_Ball_Z:_Abridged_Parody_Episode_3
     quotes:
       - quote:
           - nappa: Guy who's as strong as a saibaman says what?
@@ -121,6 +127,8 @@ episodes:
 
   - title: "Episode 4: Snakeway to Heaven"
     info: Play on <a href=1>Led Zeppelin's</a> <a href=2>Stairway to Heaven</a>
+    transcripts: http://tfsabridged.blogspot.com/2012/05/episode-4-snakeway-to-heaven.html
+    wikia: http://abridgedseries.wikia.com/wiki/TFS_Dragon_Ball_Z:_Abridged_Parody_Episode_3
     hrefs:
       1: http://en.wikipedia.org/wiki/Led_Zeppelin
       2: http://en.wikipedia.org/wiki/Stairway_to_Heaven
@@ -130,17 +138,14 @@ episodes:
           - goz_and_mez: we are here to [clap], pump you up!
         time: "1:13"
         explanation: >
-          Goz and Mez are a parody of the German homoerotic duo <a href=1>Hans and Franz of SNL</a> (who are themselves parodies of Arnold Schwarzenegger).  'Ach nein!' translates to 'Oh no!'
+          Goz and Mez are a take off on the German homoerotic duo <a href=1>Hans and Franz of SNL</a> (who are themselves parodies of Arnold Schwarzenegger).  'Ach nein!' translates to 'Oh no!'
         hrefs:
           1: http://en.wikipedia.org/wiki/Hans_and_Franz
-      - quote:
-          - nappa: Are we there yet?
-        time: "8:20"
-        explanation: >
-          A reference to the Simpsons
 
   - title: "Episode 5: Vegeta: Kills Bugs Dead"
     id: P6P_sXbQtgc
+    transcripts: http://tfsabridged.blogspot.com/2012/06/episode-5-vegeta-kills-bugs-dead.html
+    wikia: http://abridgedseries.wikia.com/wiki/TFS_Dragon_Ball_Z:_Abridged_Parody_Episode_3
     info: A reference to Raid bug killing spray
     quotes:
       - quote:
@@ -157,9 +162,11 @@ episodes:
 
   - title: "Episode 6: No One Ever Listens To The Magical Dragon"
     id: JJDa3irhkoI
-    info: a reference to the film <a href=1>Puff the Magic Dragon</a>
+    wikia: http://abridgedseries.wikia.com/wiki/TFS_Dragon_Ball_Z:_Abridged_Parody_Episode_3
+    transcripts: http://tfsabridged.blogspot.com/2012/06/episode-6-no-one-ever-listens-to.html
+    info: clearly some reference to an incarnation of <a href=1>Puff the Magic Dragon</a> (there's a song and multiple films)
     hrefs:
-      1: http://en.wikipedia.org/wiki/Puff_the_Magic_Dragon_(film)
+      1: http://en.wikipedia.org/wiki/Puff,_the_Magic_Dragon
     quotes:
       - quote:
           - helmet: You must construct additional Pylons.
@@ -184,6 +191,8 @@ episodes:
 
   - title: "Episode 7: Saiyans? On My Planet? (It's More Likely Than You Think)."
     id: Ui0mRLYZwYc
+    transcripts: http://tfsabridged.blogspot.com/2012/06/episode-7-saiyans-on-my-planet-its-more.html
+    wikia: http://abridgedseries.wikia.com/wiki/TFS_Dragon_Ball_Z:_Abridged_Parody_Episode_3
     info: According to Know your Meme, the joke stems from an <a href=1>old ad</a> ("Pornography? On my computer? It's more likely than you think.")
     hrefs:
       1: http://knowyourmeme.com/memes/x-in-my-y
@@ -212,6 +221,8 @@ episodes:
 
   - title: "Episode 8: Nappa's Best Day Ever"
     id: GXeOlcctd9g
+    transcripts: http://tfsabridged.blogspot.com/2012/06/episode-8-nappas-best-day-ever.html
+    wikia: http://abridgedseries.wikia.com/wiki/TFS_Dragon_Ball_Z:_Abridged_Parody_Episode_3
     quotes:
       - quote:
           - krillin: That's it!  I can't take it anymore!  I can only be pushed so far!
@@ -256,9 +267,10 @@ episodes:
           "Full Nelson" is reference to episode 2 where Goku gets Raditz in a full nelson, and Piccolo blasts both of them.
           The latter two are Naruto references.
           "KAGEBUSHIN NO JUTSU!" is reference to the <a href=1>Shadow Clone Technique</a> from Naruto.
-          "Believe it" is Naruto's catch phrase
+          <a href=2>"Believe it"</a> is Naruto's catch phrase
         hrefs:
-          1: yar
+          1: http://naruto.wikia.com/wiki/Shadow_Clone_Technique
+          2: http://naruto.wikia.com/wiki/Dattebayo_and_Believe_It
 
       - quote:
           - vegeta: Nappa, where did your armor go?
@@ -267,13 +279,15 @@ episodes:
         time: "1:15"
         explanation: >
           'battleship' is a reference to the game <a href=1>Battleship</a> in which one can sink an opponent's battleships
-          Aquaman screaming 'noooooooo' is a reference to episode 5, where the super friends convene to stop the Saiyans, and Aquaman can only offer his ability to speak to whales.
+          Aquaman screaming 'noooooooo' is a reference to episode 5, where the super friends convene to stop the Saiyans, and Aquaman <a href=2>can only offer his ability to speak to whales</a>.
         hrefs:
           1: http://en.wikipedia.org/wiki/Battleship_(game)
           2: http://youtu.be/P6P_sXbQtgc?t=6m12s
 
   - title: "Episode 9: The Set Up"
     id: bd2nWh6wui0
+    transcripts: http://tfsabridged.blogspot.com/2012/06/episode-9-setup.html
+    wikia: http://abridgedseries.wikia.com/wiki/TFS_Dragon_Ball_Z:_Abridged_Parody_Episode_3
     quotes:
       - quote:
           - nappa: Midget's next! RHAAAA!!!
@@ -296,6 +310,8 @@ episodes:
 
   - title: "Episode 10: Part 1: The Punchline"
     id: dPIJLU1DkiI
+    transcripts: http://tfsabridged.blogspot.com/2012/06/episode-10-punchline-part-1.html
+    wikia: http://abridgedseries.wikia.com/wiki/TFS_Dragon_Ball_Z:_Abridged_Parody_Episode_3
     quotes:
       - quote:
           - goku: Yes, Gohan. Tell her. ("Coming Undone" by KoRn plays)  To put dinner on. ("Coming Undone" plays again) ‘Cause I’m hungry. (plays a third time)
@@ -328,6 +344,8 @@ episodes:
 
   - title: "Episode 10: Part 2: The Punchline (part 2)"
     id: Bm0V0UVqFtQ
+    transcripts: http://tfsabridged.blogspot.com/2012/06/episode-10-part-2-punchline.html
+    wikia: http://abridgedseries.wikia.com/wiki/TFS_Dragon_Ball_Z:_Abridged_Parody_Episode_3
     quotes:
       - quote:
           - Oozaru_Vegeta: Hey, Kakarot, what's the opposite of Christopher Walken?
@@ -342,7 +360,9 @@ episodes:
           - Goku: A -- what?
           - oozaru_Vegeta: Exactly, now die!
         time: "2:17"
-        explanation: Arlians were the insectoid people from the bug planet that Vegeta blew up on his way to Earth
+        explanation: <a href=1>Arlians</a> were the insectoid people from the bug planet that Vegeta blew up on his way to Earth
+        hrefs:
+          1: http://dragonball.wikia.com/wiki/Arlian
 
       - quote:
           - krillin: Ah, Jesus Christ Vampire Hunter.
@@ -362,6 +382,8 @@ episodes:
           1: http://en.wikipedia.org/wiki/Charlton_Heston
   - title: "Episode 10 Finale"
     id: nH_pdoCGCh4
+    transcripts: http://tfsabridged.blogspot.com/2012/07/episode-10-part-3-finale.html
+    wikia: http://abridgedseries.wikia.com/wiki/TFS_Dragon_Ball_Z:_Abridged_Parody_Episode_3
     quotes:
       - quote:
           - Goku: Gohan? This is Daddy... I know you’re angry right now. But you have to focus your anger. Re-remember Icarus? *flashback to Icarus getting blasted*
@@ -377,10 +399,14 @@ episodes:
           - researcher2: Well sir, I find it highly illogical to refer to this as a "ship"; the spherical design incorporates no propulsion system. It looks more like an orbiting vessel, or a satell—whaaa!
           - researcher1: … suck it, Spock!
         time: "3:21"
-        explanation: William Shatner had herky-jerky overacting style, similar to these researchers.
+        explanation: William Shatner had herky-jerky overacting style, which these researchers could be considered parodies of, a la <a href=1>Family Guy</a>
+        hrefs:
+          1: https://www.youtube.com/watch?v=JZTcbs9IX5g
 
   - title: "Episode 11: Looks Like The Z-Warriors Are Blasting Off Again!"
     id: 9LxtXsQNLWI
+    transcripts: http://tfsabridged.blogspot.com/2012/06/episode-11-looks-like-z-warriors-are.html
+    wikia: http://abridgedseries.wikia.com/wiki/TFS_Dragon_Ball_Z:_Abridged_Parody_Episode_3
     quotes:
       - quote:
           - dr_briefs: Well, I'm working on your translator, but all I can get it to do is translate the Namekian into another language I don’t understand.
@@ -396,6 +422,8 @@ episodes:
 
   - title: "Episode 12: A Rose By Any Other Namek"
     id: 6fAQtmY2NUM
+    transcripts: http://tfsabridged.blogspot.com/2012/07/episode-12-rose-by-any-other-namek.html
+    wikia: http://abridgedseries.wikia.com/wiki/TFS_Dragon_Ball_Z:_Abridged_Parody_Episode_3
     quotes:
       - quote:
           - krillin: Krillin’s log, stardate, uh, November 28th. We’ve been flying for two weeks now. Starting to feel verrrry pent up. Not just from being trapped on the ship of course, but from Bulma walking around in nothing but her UNDERWEAR! I would relieve this tension but I have no alone time as the toilet keeps SCREAMING AT ME!
@@ -411,7 +439,10 @@ episodes:
 
   - title: "Episode 13: Dr. Briefs Made This Episode In A Cave... WITHABOXOFSCRAPS!"
     id: 8sAF0WdzVZQ
-    info: Perhaps this is referencing the ridiculous inventiveness of Dr. Briefs (Bulma's dad)?
+    transcripts: http://tfsabridged.blogspot.com/2012/06/episode-13-dr-briefs-made-this-episode.html
+    wikia: http://abridgedseries.wikia.com/wiki/TFS_Dragon_Ball_Z:_Abridged_Parody_Episode_3
+    info: A reference ridiculous inventiveness of Dr. Briefs (Bulma's dad) and <a href=1>Tony Stark of Iron Man</a>
+    hrefs: https://www.youtube.com/watch?v=MtntTvuv8Aw
     quotes:
       - quote:
           - krillin: Don't you mean "OR we'll shoot you?"
@@ -433,13 +464,15 @@ episodes:
       - quote:
           - kame: Can you speak up?  I'm not wearing any pants
         time: "4:30"
-        explanation: "A reference to Homer Simpson: You'll have to speak up, I'm wearing a towel[1]"
-        references:
+        explanation: "A reference to Homer Simpson: <a href=1>You'll have to speak up, I'm wearing a towel</a>"
+        hrefs:
           1: http://www.youtube.com/watch?v=jk8SToEQPGw
 
 
   - title: "Episode 14: No Country for Old Namekians"
     id: ZTzOxQICJck
+    transcripts: http://tfsabridged.blogspot.com/2012/06/episode-14-no-country-for-old-namekians.html
+    wikia: http://abridgedseries.wikia.com/wiki/TFS_Dragon_Ball_Z:_Abridged_Parody_Episode_3
     quotes:
       - quote:
           - gohan: Hey, Krillin, look! The Dragon Balls!
@@ -449,6 +482,8 @@ episodes:
 
   - title: "Episode 15: Operation Dodoria Drop"
     id: Dq4Kx51S-WM
+    transcripts: http://tfsabridged.blogspot.com/2012/07/episode-15-operation-dodoria-drop.html
+    wikia: http://abridgedseries.wikia.com/wiki/TFS_Dragon_Ball_Z:_Abridged_Parody_Episode_3
     info: a reference to <a href=1>Operation Dumbo Drop</a>
     hrefs:
       1: http://en.wikipedia.org/wiki/Operation_Dumbo_Drop
@@ -469,6 +504,8 @@ episodes:
 
   - title: "Episode 16: Vam Qan Namek"
     id: hcL46NjFDJU
+    wikia: http://abridgedseries.wikia.com/wiki/TFS_Dragon_Ball_Z:_Abridged_Parody_Episode_3
+    transcripts: http://tfsabridged.blogspot.com/2012/07/episode-16-vam-qan-namek.html
     info: Klingon (aka Namekian) for 'This Old Namek', a reference to <a href=4>This Old House</a>
     quotes:
       - quote:
@@ -497,6 +534,8 @@ episodes:
 
   - title: "Episode 17: A Lovely Bunch of Dragonballs"
     id: VxoT3A4qgRo
+    transcripts: http://tfsabridged.blogspot.com/2012/06/episode-17-lovely-bunch-of-dragonballs.html
+    wikia: http://abridgedseries.wikia.com/wiki/TFS_Dragon_Ball_Z:_Abridged_Parody_Episode_3
     info: A reference to "I've got a lovely bunch of coconuts" by Merv Griffin
     quotes:
       - quote:
@@ -528,13 +567,14 @@ episodes:
 
   - title: "Episode 18: It's a Mad, Mad, Mad, Mad Saiyan"
     id: bsPujgqpx8w
+    transcripts: http://tfsabridged.blogspot.com/2012/06/episode-18-its-mad-mad-mad-mad-saiyan.html
+    wikia: http://abridgedseries.wikia.com/wiki/TFS_Dragon_Ball_Z:_Abridged_Parody_Episode_3
     info: Play on that <a href=1>Mad World</a> song
     hrefs:
       1: http://en.wikipedia.org/wiki/Mad_World
     quotes:
       - quote:
-          - vegeta: >
-            Ya know, I could kill both of you right now, but after killing Zarbon and getting this last Dragon Ball, I'm in a good mood.  I'm in a REALLY good mood.  But just remember this: Next time you see me, I WILL be immortal.  ...not that you stood a chance to begin with, I'm just.... Saiyan.
+          - vegeta: "Ya know, I could kill both of you right now, but after killing Zarbon and getting this last Dragon Ball, I'm in a good mood.  I'm in a REALLY good mood.  But just remember this: Next time you see me, I WILL be immortal.  ...not that you stood a chance to begin with, I'm just.... Saiyan."
           - sub: laughter
           - vegeta: Waka waka!
         explanation: <a href=1>This</a> is the only thing I could find
@@ -547,6 +587,10 @@ episodes:
 
   - title: "Episode 19: 到着を恐怖!! 敬礼, ギニュー特戦隊!!"
     id: aossw4UUjVA
+    transcripts: http://tfsabridged.blogspot.com/2012/08/episode-19.html
+    wikia: http://abridgedseries.wikia.com/wiki/TFS_Dragon_Ball_Z:_Abridged_Parody_Episode_3
+    reading: Guldo
+    time: "6:09"
     info: "According to <a href=1>google tranlsate</a> the title translates to: Fear! Salute the arrival, Rangers Ginyu!"
     hrefs:
       1: http://translate.google.com/#ja/en/%E5%88%B0%E7%9D%80%E3%82%92%E6%81%90%E6%80%96!!%20%E6%95%AC%E7%A4%BC%2C%20%E3%82%AE%E3%83%8B%E3%83%A5%E3%83%BC%E7%89%B9%E6%88%A6%E9%9A%8A!!
@@ -559,24 +603,46 @@ episodes:
           - gohan: No.
           - vegeta: Sailor Moon?
           - gohan: No.
-          - vegeta: Beetle Borgs?
+          - vegeta: <a href=1>Beetle Borgs?</a>
           - gohan: No.
-          - vegeta: V.R. Troopers?
+          - vegeta: <a href=2>V.R. Troopers?</a>
           - gohan: No.
-          - vegeta: Samurai Cyber-Squad?
+          - vegeta: <a href=3>Samurai Cyber-Squad?</a>
           - gohan: No.
-          - vegeta: ...Tattooed Teenage Alien Fighters From Beverly Hills?
+          - vegeta: ...<a href=4>Tattooed Teenage Alien Fighters From Beverly Hills?</a>
           - gohan: Oh, yeah!
           - vegeta: Goddammit!
-        explanation: nada
+        hrefs:
+          1: http://en.wikipedia.org/wiki/Big_Bad_Beetleborgs
+          2: http://en.wikipedia.org/wiki/VR_Troopers
+          3: http://en.wikipedia.org/wiki/Superhuman_Samurai_Syber-Squad
+          4: http://en.wikipedia.org/wiki/Tattooed_Teenage_Alien_Fighters_from_Beverly_Hills
+        explanation: The shows are in descending order from most popular to least.
+
+      - quote:
+          - vegeta: We're all going to die anyway, so...baldie! Break the ball!
+          - krillin: What? That I...
+          - vegeta: Punch the damn thing!
+        explanation: In the original series, Vegeta told Krilling to break the ball (in the original, Guldo swiped it before he could punch it), despite the fact Krillin had no chance of doing any damage other than to himself.
+        time: "5:18"
+
+      - quote:
+          - ginyu: All right, everyone settle down! Before I take these Dragon Balls to Lord Frieza, it's time for everyone's favorite game...
+          - all: WHEEL...OF...DEATH!
+          - ginyu: Now, for the folks viewing at home, the rules are simple.  One of my men will spin the wheel, and whoever it lands on, he kills!
+          - vegeta: What the...when did you have time to set this up? And...is that a camera? What kind of sadistic retard watches this crap?
+          - freeza: Love this show
+        explanation: The Wheel of Death is apparently a recurring show that the Ginyu force like to put on and is beloved by Frieza.
 
       - quote:
           - guldo: That's right, keep on your guard. Don't drop it, not even for an instant... Za Warudo!
           - krillin: What are you... going on about... *gets crushed by steam roller*
         explanation: >
-          A reference to Dio Brando of JoJo's Bizarre Adventure. [1]  Za Warudo is his special attack... where he <a href=1>drops a stream roller</a> on his opponent
+          A reference to <a href=2>Dio Brando</a> of <a href=3>JoJo's Bizarre Adventure</a>.  Za Warudo is his special attack... where he <a href=1>drops a stream roller</a> on his opponent
         hrefs:
-          1: http://www.youtube.com/watch?v=-bb4eLRD3To
+          1: https://www.youtube.com/watch?v=qbArvIqZzkI
+          2: http://jojo.wikia.com/wiki/Dio_Brando
+          3: http://en.wikipedia.org/wiki/JoJo's_Bizarre_Adventure_(video_game)
 
       - quote:
           - freeza: Good. And they have the ringtone I wanted?
@@ -588,16 +654,29 @@ episodes:
           1: http://en.wikipedia.org/wiki/Maximum_the_Hormone
 
   - title: "Episode 20: Namekimania"
+    info: Play on Wrestlemania
     id: 7zsZLN3Xjhc
+    transcripts: http://tfsabridged.blogspot.com/2012/07/episode-20-namekimania-2011.html
+    wikia: http://abridgedseries.wikia.com/wiki/TFS_Dragon_Ball_Z:_Abridged_Parody_Episode_3
     info: A reference to Wrestlemania.  The whole episode parodies it.  This battle resembles the tag-team, showboating style of WWF
-    hrefs:
-      1: ""
 
     quotes:
       - quote:
-          - recoome: You see vegeta. You sit there and brag about how the Saiyans are the mightiest warriors in allll the universe.
-        explanation: Recoome is a parody of Hulk Hogan
-        time: "8:35"
+          - recoome: HIT… RECOOOOOME'S MUSIC!  (*Evil Horde - Hangarmageddon starts playing*)
+          - recoome: Vegeta, you think that just because you’re the prince of all Saiyans you're the best there is at what you do. But let Recoome tell you something brother! You ain’t no Wolverine! And you ain't got what it takes to step up, to a FIVE...TIME...CHAMPION!
+        explanation: <a href=1>Hangarmageddon</a> (cuz Recoome rhymes with doom) is a song from <a href=2>Doom</a>.  Also, Recoome is a parody of Hulk Hogan
+        hrefs:
+          1: https://www.youtube.com/watch?v=oQs48dvebck&feature=kp
+          2: http://en.wikipedia.org/wiki/Doom_(video_game)
+        time: "1:16"
+
+      - quote:
+          - jeice: This fight right here is gonna be a bloomin' slobberknocker it is.
+        explanation: Bloomin' is an Australian slang term used to emphasize how good or bad something is, similar to the English slang term 'bloody'.  <a href=1>slobberknocker</a> is a slang term for a brutal fight
+        hrefs:
+          1: ""
+        time: "1:42"
+
       - quote:
           - goku: >
               Krillin, I’m not gonna kill them. They’re hardly even a threat.
@@ -606,6 +685,16 @@ episodes:
           - goku: Vegeta! That was not very Paragon!
           - vegeta: Tch. Renegade for life.  (“Tokusentai” plays)
         explanation: In Mass Effect, you can take your character down the Paragon (good) or Renegade (evil) path.  Vegeta is obviously a Renegade.
+
+      - quote:
+          - commercial: And where can you find all this spectacular space food? At Spacey’s. Now with our new Raditz Menu. Spacey’s; it’s good food. In space
+        explanation: Parody of the dollar menu.  Also, the menu displays a double sunday.  Double Sunday was one of Raditz' attack in DBZ Budokai.
+
+      - quote:
+          krillin: Hey!  Hey Gohan, look! He picked Vegeta.... like a-
+          gohan: Like a vegetable, yes.
+        explanation: Vegeta's comes from vegetable.
+
 
   - title: "Episode 21: Stop! Celebrate and Witness, Goku's Back From 100X Fitness!"
     id: ctd84NLgTxw
@@ -618,7 +707,7 @@ episodes:
           - goku: Say, do you know where there’s a Denny’s around here?
           - jeice: Burter! No!
           - goku: Butter! That’ll go great on my Grand Slam!
-        explanation: <a href=1>Burter</a> is named after butter
+        explanation: <a href=1>Burter</a> is named after butter (many of the evil dudes are named after foods)
         hrefs:
           1: http://dragonball.wikia.com/wiki/Burter
 
@@ -681,7 +770,7 @@ episodes:
       - quote:
           - freeza: We flew over an hour for this? It looks exactly the same as everywhere else on this godforsaken rock!
           - nail: Hmph. Racist.
-          - freeza: Well, maybe so, but I can’t quite be a racist against a race that doesn’t exist. Like the Clorfors. Dirty, money-grubbing Clorfors. Tried to clorf me right out of my money. Blew those little bastards up is what I did.
+          - freeza: Well, maybe so, but I can’t quite be a racist against a race that doesn't exist. Like the Clorfors. Dirty, money-grubbing Clorfors. Tried to clorf me right out of my money. Blew those little bastards up is what I did.
         explanation: Frieza, being evil, represents a caricature of a typical nazi/anti-semite here.
         time: "0:42"
       - quote:
@@ -705,7 +794,9 @@ episodes:
     quotes:
       - quote:
           - piccolo: Wow. Unreal! My gosh. This is amazing! I feel INCREDIBLLLLE! Yes! Yes! Yes! Yes! I can win! I feel great! I—CAN—DO—THIS—HAAA—
-        explanation: reference to Piccolo's excessive reaction to fusing with nail
+        explanation: parody of Piccolo's <a href=1>excessive reaction</a> to fusing with Nail
+        hrefs:
+          1: http://youtu.be/1zjyTM7rbJs?t=1m46s
         time: ""
       - quote:
           - king_Vegeta: Freeza, can I sit down and have a word with—
