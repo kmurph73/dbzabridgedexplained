@@ -29,10 +29,8 @@ episodes:
         time: "2:48"
         explanation:  >
           Double Sun... == <a href=3>Double Sunday</a>. It's one of <a href=4>Raditz's attacks</a> in DragonBall Z Budokai.
-          As for the lani/Vegeta3986 fight, apparently there were two early DBZ dubs: the <a href=1>Ocean</a> (heavily censored and edited) and <a href=2>Funimation</a> (far more faithful to the Japanese original) dub.
+          As for the Lani/Vegeta3986 fight, apparently there were two early DBZ dubs: the <a href=1>Ocean</a> (heavily censored and edited) and <a href=2>Funimation</a> (far more faithful to the Japanese original) dub.
           Lani begins to say Double Sunday when he is interrupted by Vegeta3986 who then takes over the role, if you listen closely, you can recognize the voice change.
-          This seems to be a reference to the two dubs.
-          In the Funimation Dub, Chris Sabat voiced Vegeta, and also Raditz once when he made a reappearance in episode 89.  Lani also voices Vegeta and started out voicing raditz before being overtaken by Vegeta3986
         hrefs:
           1: http://dragonball.wikia.com/wiki/Ocean_Dub
           2: http://dragonball.wikia.com/wiki/FUNimation_Dub
@@ -136,9 +134,10 @@ episodes:
     quotes:
       - quote:
           - goz_and_mez: we are here to [clap], pump you up!
+          - mez: Ach he has a piece of the fruit, ach nein! Don’t eat the fruit, don’t eat the fruit!
         time: "1:13"
         explanation: >
-          Goz and Mez are a take off on the German homoerotic duo <a href=1>Hans and Franz of SNL</a> (who are themselves parodies of Arnold Schwarzenegger).  'Ach nein!' translates to 'Oh no!'
+          Goz and Mez are a take off of the German homoerotic duo <a href=1>Hans and Franz of SNL</a> (who are themselves parodies of Arnold Schwarzenegger).  'Ach nein!' translates to 'Oh no!'
         hrefs:
           1: http://en.wikipedia.org/wiki/Hans_and_Franz
 
@@ -216,8 +215,6 @@ episodes:
         hrefs:
           1: http://en.wikipedia.org/wiki/Fraggle_Rock
           2: http://www.youtube.com/watch?v=8N_tupPBtWQ
-        references:
-          1: http://abridgedseries.wikia.com/wiki/TFS_Dragon_Ball_Z:_Abridged_Parody_Episode_7
 
   - title: "Episode 8: Nappa's Best Day Ever"
     id: GXeOlcctd9g
@@ -654,17 +651,18 @@ episodes:
           1: http://en.wikipedia.org/wiki/Maximum_the_Hormone
 
   - title: "Episode 20: Namekimania"
-    info: Play on Wrestlemania
     id: 7zsZLN3Xjhc
     transcripts: http://tfsabridged.blogspot.com/2012/07/episode-20-namekimania-2011.html
-    wikia: http://abridgedseries.wikia.com/wiki/TFS_Dragon_Ball_Z:_Abridged_Parody_Episode_3
-    info: A reference to Wrestlemania.  The whole episode parodies it.  This battle resembles the tag-team, showboating style of WWF
+    wikia: http://abridgedseries.wikia.com/wiki/TFS_Dragon_Ball_Z:_Abridged_Parody_Episode_20
+    info: A reference to <a href=1>Wrestlemania</a>.  The whole episode parodies it.  The battle resembles the tag-team, showboating style of pro wrestling.
+    hrefs:
+      1: http://en.wikipedia.org/wiki/WrestleMania
 
     quotes:
       - quote:
           - recoome: HIT… RECOOOOOME'S MUSIC!  (*Evil Horde - Hangarmageddon starts playing*)
           - recoome: Vegeta, you think that just because you’re the prince of all Saiyans you're the best there is at what you do. But let Recoome tell you something brother! You ain’t no Wolverine! And you ain't got what it takes to step up, to a FIVE...TIME...CHAMPION!
-        explanation: <a href=1>Hangarmageddon</a> (cuz Recoome rhymes with doom) is a song from <a href=2>Doom</a>.  Also, Recoome is a parody of Hulk Hogan
+        explanation: <a href=1>Hangarmageddon</a> is a version of the E1M1, the theme song from <a href=2>Doom</a> (remember, Recoome rhymes with doom).  Also, Recoome is a parody of Hulk Hogan.
         hrefs:
           1: https://www.youtube.com/watch?v=oQs48dvebck&feature=kp
           2: http://en.wikipedia.org/wiki/Doom_(video_game)
@@ -674,31 +672,51 @@ episodes:
           - jeice: This fight right here is gonna be a bloomin' slobberknocker it is.
         explanation: Bloomin' is an Australian slang term used to emphasize how good or bad something is, similar to the English slang term 'bloody'.  <a href=1>slobberknocker</a> is a slang term for a brutal fight
         hrefs:
-          1: ""
+          1: http://www.urbandictionary.com/define.php?term=SLOBBERKNOCKER&defid=317817
+        time: "1:40"
+
+      - quote:
+          - Vegeta: Suck it, Jabroni!
+        explanation: A phrase made infamous by the WWE wrestler <a href=1>The Rock</a>.  Apparently it has a <a href=1>real definition</a>: a performer whose primary role is to lose to established talent.
+        time: "2:54"
+        hrefs:
+          1: http://en.wikipedia.org/wiki/Dwayne_Johnson
+          2: http://en.wiktionary.org/wiki/jabroni
+
+      - quote:
+          - jeice: It doesn’t look like there’s anyone left who can stop Recoome! *Goku’s ship flies in* Wait… who’s THAT??
+          - background: *Rick Derringer’s "Real American", i.e. Hulk Hogan’s theme song, plays*
+          - song: >
+              When it comes crashing down and it hurts inside
+              You gotta take a stand it don’t help to hide
+              If you hurt my friends, then you hurt my pride
+              I gotta be the man
+              I can’t let it slide
+        explanation: Goku is a Real American.
+
+      - quote:
+          - goku: Krillin, I’m not gonna kill them. They’re hardly even a threat.
+          - scene:   (In the style of "Mass Effect") * Vegeta kills Recoome and Burter *
+          - goku: Vegeta! That was not very Paragon!
+          - vegeta: Tch. Renegade for life.  ("Tokusentai" plays)
+        explanation: In Mass Effect, you can take your character down the Paragon (good) or Renegade (evil) path.  Vegeta is obviously a Renegade.
         time: "1:42"
 
       - quote:
-          - goku: >
-              Krillin, I’m not gonna kill them. They’re hardly even a threat.
-              (In the style of “Mass Effect”) * Vegeta decides to kill Recoome and Burter*
-
-          - goku: Vegeta! That was not very Paragon!
-          - vegeta: Tch. Renegade for life.  (“Tokusentai” plays)
-        explanation: In Mass Effect, you can take your character down the Paragon (good) or Renegade (evil) path.  Vegeta is obviously a Renegade.
-
-      - quote:
           - commercial: And where can you find all this spectacular space food? At Spacey’s. Now with our new Raditz Menu. Spacey’s; it’s good food. In space
-        explanation: Parody of the dollar menu.  Also, the menu displays a double sunday.  Double Sunday was one of Raditz' attack in DBZ Budokai.
+        explanation: Parody of the dollar menu.  Notice that the menu displays a double sunday -- Double Sunday was one of Raditz' attack in DBZ Budokai.
 
       - quote:
-          krillin: Hey!  Hey Gohan, look! He picked Vegeta.... like a-
-          gohan: Like a vegetable, yes.
-        explanation: Vegeta's comes from vegetable.
-
+          - krillin: Hey!  Hey Gohan, look! He picked Vegeta.... like a-
+          - gohan: Like a vegetable, yes.
+        explanation: >
+          Vegeta's name was inspired by "vegetable".
 
   - title: "Episode 21: Stop! Celebrate and Witness, Goku's Back From 100X Fitness!"
     id: ctd84NLgTxw
-    info: Title is a parody of the opening line in Ice Ice Baby by Vanilla Ice
+    info: Title is a parody of the opening line in <a href=1>Ice Ice Baby</a> by Vanilla Ice
+    hrefs:
+      1: http://en.wikipedia.org/wiki/Ice_Ice_Baby
     links:
       transcripts: http://tfsabridged.blogspot.com/2012/06/episode-21-stop-celebrate-and-witness.html
       wikia: http://abridgedseries.wikia.com/wiki/TFS_Dragon_Ball_Z:_Abridged_Parody_Episode_21
