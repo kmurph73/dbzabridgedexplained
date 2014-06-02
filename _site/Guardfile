@@ -3,5 +3,6 @@
 
 guard :shell do
   watch('episodes.yaml') { `ruby script.rb` }
+  watch('templ.haml') { `ruby script.rb` }
 end
 

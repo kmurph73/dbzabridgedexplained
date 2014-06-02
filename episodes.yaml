@@ -22,20 +22,28 @@ episodes:
         explanation: "<a href=1>Appule</a> is a reptilian looking Frieza henchman.  Apparently Raditz wanted to keep him as a pet, but <a href=2>Bardock</a> thought he might accidentally kill him.  His fears may have been unjustified, given that Radditz only ever became as strong as a saibaman"
         hrefs:
           1: http://dragonball.wikia.com/wiki/Appule
-          2: http://drag
+          2: http://dragonball.wikia.com/wiki/Bardock
 
       - quote:
           - lanipator: DOUBLE SUN... [lani and Vegeta3986 fight] fine... I'm just gonna go practice my Vegeta.  Ass.
         time: "2:48"
         explanation:  >
-          Double Sun... == <a href=3>Double Sunday</a>. It's one of <a href=4>Raditz's attacks</a> in DragonBall Z Budokai.
-          As for the Lani/Vegeta3986 fight, apparently there were two early DBZ dubs: the <a href=1>Ocean</a> (heavily censored and edited) and <a href=2>Funimation</a> (far more faithful to the Japanese original) dub.
-          Lani begins to say Double Sunday when he is interrupted by Vegeta3986 who then takes over the role, if you listen closely, you can recognize the voice change.
+          <p>
+            Double Sun... == <a href=3>Double Sunday</a>. It's one of <a href=4>Raditz's attacks</a> in DragonBall Z Budokai.
+            As for the Lani/Vegeta3986 fight, apparently there were two early DBZ dubs: the <a href=1>Ocean</a> (heavily censored and edited) and <a href=2>Funimation</a> (far more faithful to the Japanese original) dub.
+            Lani begins to say Double Sunday when he is interrupted by Vegeta3986 who then takes over the role, if you listen closely, you can recognize the voice change.  This appears to be a reference to the two dubs.
+          </p>
+          <p>
+            Also, Raditz's "signature attack" was never given an exact name in the original series. However, like most unnamed attacks in Dragon Ball, the attack has been given several unofficial names by the various video games in the series, like "Keep Your Eye on the Birdie" and "Saturday Crush". "Double Sunday", the name that Lanipator uses, is actually the name of the dual energy blast that Raditz uses to sever Piccolo's arm. This explains the argument between Lanipator and Vegeta3986, as the name "Keep Your Eye on the Birdie" is prefered among fans.[1]
+          </p>
+
         hrefs:
           1: http://dragonball.wikia.com/wiki/Ocean_Dub
           2: http://dragonball.wikia.com/wiki/FUNimation_Dub
           3: http://dragonball.wikia.com/wiki/Double_Sunday
           4: http://dragonball.wikia.com/wiki/Double_Sunday#Appearances_in_Video_Games
+        references: 
+          1: http://teamfourstar.wikia.com/wiki/Raditz#Trivia
 
       - quote:
           - lanipator: I'm drinking OJ!  Now it's Apple Juice!  Now it's beer!
@@ -474,7 +482,9 @@ episodes:
       - quote:
           - gohan: Hey, Krillin, look! The Dragon Balls!
           - krillin: Whoa, those things are huge! AC/DC be damned.
-        explanation: ACDC is a band with a song called "Big Balls". "But we've got the biggest...balls of them all!"
+        explanation: <a href=1>AC/DC</a> has a song called "Big Balls". "But we've got the biggest...balls of them all!"
+        hrefs:
+          1: http://en.wikipedia.org/?title=AC/DC
         time: "0:23"
 
   - title: "Episode 15: Operation Dodoria Drop"
@@ -677,7 +687,8 @@ episodes:
 
       - quote:
           - Vegeta: Suck it, Jabroni!
-        explanation: A phrase made infamous by the WWE wrestler <a href=1>The Rock</a>.  Apparently it has a <a href=1>real definition</a>: a performer whose primary role is to lose to established talent.
+        explanation: >
+          A phrase made infamous by the WWE wrestler <a href=1>The Rock</a>.  Apparently it has a <a href=1>actual definition</a>: a performer whose primary role is to lose to established talent.
         time: "2:54"
         hrefs:
           1: http://en.wikipedia.org/wiki/Dwayne_Johnson
@@ -685,7 +696,8 @@ episodes:
 
       - quote:
           - jeice: It doesn’t look like there’s anyone left who can stop Recoome! *Goku’s ship flies in* Wait… who’s THAT??
-          - background: *Rick Derringer’s "Real American", i.e. Hulk Hogan’s theme song, plays*
+          - background: >
+              *Rick Derringer’s "Real American", i.e. Hulk Hogan’s theme song, plays*
           - song: >
               When it comes crashing down and it hurts inside
               You gotta take a stand it don’t help to hide
@@ -717,9 +729,8 @@ episodes:
     info: Title is a parody of the opening line in <a href=1>Ice Ice Baby</a> by Vanilla Ice
     hrefs:
       1: http://en.wikipedia.org/wiki/Ice_Ice_Baby
-    links:
-      transcripts: http://tfsabridged.blogspot.com/2012/06/episode-21-stop-celebrate-and-witness.html
-      wikia: http://abridgedseries.wikia.com/wiki/TFS_Dragon_Ball_Z:_Abridged_Parody_Episode_21
+    transcripts: http://tfsabridged.blogspot.com/2012/06/episode-21-stop-celebrate-and-witness.html
+    wikia: http://abridgedseries.wikia.com/wiki/TFS_Dragon_Ball_Z:_Abridged_Parody_Episode_21
     quotes:
       - quote:
           - goku: Say, do you know where there’s a Denny’s around here?
@@ -732,9 +743,8 @@ episodes:
   - title: "Episode 22: The Good, the Bad, and the Purple"
     id: ctd84NLgTxw
     info: A take on the Eastwood movie The Good, the Bad, and the Ugly
-    links:
-      transcripts: http://tfsabridged.blogspot.com/2012/06/episode-22-good-bad-and-purple.html
-      wikia: http://abridgedseries.wikia.com/wiki/TFS_Dragon_Ball_Z:_Abridged_Parody_Episode_22
+    transcripts: http://tfsabridged.blogspot.com/2012/06/episode-22-good-bad-and-purple.html
+    wikia: http://abridgedseries.wikia.com/wiki/TFS_Dragon_Ball_Z:_Abridged_Parody_Episode_22
     quotes:
       - quote:
           - freeza: Well, then. If this is the only course of action available to me, I accept. I’ll dispatch of this worm, and then I’ll be back for you, slug.
@@ -747,9 +757,8 @@ episodes:
 
   - title: "Episode 23: Grand Theft Goku"
     id: TKl02m4lkJc
-    links:
-      transcripts: http://tfsabridged.blogspot.com/2012/06/episode-23-grand-theft-goku.html
-      wikia: http://abridgedseries.wikia.com/wiki/TFS_Dragon_Ball_Z:_Abridged_Parody_Episode_23
+    transcripts: http://tfsabridged.blogspot.com/2012/06/episode-23-grand-theft-goku.html
+    wikia: http://abridgedseries.wikia.com/wiki/TFS_Dragon_Ball_Z:_Abridged_Parody_Episode_23
     quotes:
       - quote:
           - freeza_soldier_1: It’s called the Wilhelm Scream, man.  It’s like the one in Star Wars where the stormtrooper falls.
@@ -781,9 +790,8 @@ episodes:
 
   - title: "Episode 24: The Best Laid Plans of Saiyans and Nameks"
     id: SYN_VNYKz7g
-    links:
-      transcripts: http://tfsabridged.blogspot.com/2012/06/episode-24-best-laid-plans-of-saiyans.html
-      wikia: http://abridgedseries.wikia.com/wiki/TFS_Dragon_Ball_Z:_Abridged_Parody_Episode_24
+    transcripts: http://tfsabridged.blogspot.com/2012/06/episode-24-best-laid-plans-of-saiyans.html
+    wikia: http://abridgedseries.wikia.com/wiki/TFS_Dragon_Ball_Z:_Abridged_Parody_Episode_24
     quotes:
       - quote:
           - freeza: We flew over an hour for this? It looks exactly the same as everywhere else on this godforsaken rock!
@@ -806,9 +814,8 @@ episodes:
   - title: "Episode 25: Nail is Piccolo, and so can you!"
     info: reference to I Am America (And So Can You!) by Stephen Colbert
     id: 9ada9xsMnm4
-    links:
-      transcripts: http://tfsabridged.blogspot.com/2012/06/episode-25-nail-is-piccolo-and-so-can.html
-      wikia: http://abridgedseries.wikia.com/wiki/TFS_Dragon_Ball_Z:_Abridged_Parody_Episode_25
+    transcripts: http://tfsabridged.blogspot.com/2012/06/episode-25-nail-is-piccolo-and-so-can.html
+    wikia: http://abridgedseries.wikia.com/wiki/TFS_Dragon_Ball_Z:_Abridged_Parody_Episode_25
     quotes:
       - quote:
           - piccolo: Wow. Unreal! My gosh. This is amazing! I feel INCREDIBLLLLE! Yes! Yes! Yes! Yes! I can win! I feel great! I—CAN—DO—THIS—HAAA—
@@ -838,14 +845,16 @@ episodes:
   - title: "Episode 26: Alien VS. Piccolo"
     info: Alien vs Predator reference
     id: rlnyjw5LUj0
-    links:
-      transcripts: http://tfsabridged.blogspot.com/2012/06/episode-25-nail-is-piccolo-and-so-can.html
-      wikia: http://abridgedseries.wikia.com/wiki/TFS_Dragon_Ball_Z:_Abridged_Parody_Episode_26
+    transcripts: http://tfsabridged.blogspot.com/2012/06/episode-25-nail-is-piccolo-and-so-can.html
+    wikia: http://abridgedseries.wikia.com/wiki/TFS_Dragon_Ball_Z:_Abridged_Parody_Episode_26
     quotes:
       - quote:
           - vegeta: No one ever goes to Freeza Planet 419. Not since its species miraculously repopulated.
-        explanation: aka Kanassa
+        explanation: >
+            aka <a href=1>Kanassa</a>, which is populated by a race of highly annoying telepathics, featured in the DBZ movie <a href=2>Bardock - The Father of Goku</a>
         time: ""
+        img: http://img3.wikia.nocookie.net/__cb20100512193551/dragonball/images/thumb/8/8d/KanassanOtherWorld.png/280px-KanassanOtherWorld.png
+        img-help: Kanassan
       - quote:
           - freeza: So, Namekian, what do you think of my third form?
           - piccolo: I think Ridley Scott’s gonna sue somebody.
@@ -863,9 +872,8 @@ episodes:
   - title: "Episode 27: The Saiyan Formerly Known as Prince"
     info: the artist formerly known as prince
     id: xYpfCrJPry4
-    links:
-      transcripts: http://tfsabridged.blogspot.com/2012/06/episode-27-saiyan-formerly-known-as.html
-      wikia: http://abridgedseries.wikia.com/wiki/TFS_Dragon_Ball_Z:_Abridged_Parody_Episode_27
+    transcripts: http://tfsabridged.blogspot.com/2012/06/episode-27-saiyan-formerly-known-as.html
+    wikia: http://abridgedseries.wikia.com/wiki/TFS_Dragon_Ball_Z:_Abridged_Parody_Episode_27
     quotes:
       - quote:
           - vegeta: Healer’s down!
@@ -882,9 +890,8 @@ episodes:
   - title: "Episode 28: Leave it to Freezer"
     info: Leave it to Beaver reference
     id: FxChP7oux1E
-    links:
-      transcripts: http://tfsabridged.blogspot.com/2012/06/episode-28-leave-it-to-freezer.html
-      wikia: http://abridgedseries.wikia.com/wiki/TFS_Dragon_Ball_Z:_Abridged_Parody_Episode_28
+    transcripts: http://tfsabridged.blogspot.com/2012/06/episode-28-leave-it-to-freezer.html
+    wikia: http://abridgedseries.wikia.com/wiki/TFS_Dragon_Ball_Z:_Abridged_Parody_Episode_28
     quotes:
       - quote:
           - freeza: Uagh!
