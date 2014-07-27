@@ -418,7 +418,9 @@ episodes:
           - dr_briefs: Well, I'm working on your translator, but all I can get it to do is translate the Namekian into another language I don’t understand.
           - toilet: Toire de arimasu! (Japanese for "I am a toilet")
           - dr_briefs: Damn moon-speak!
-        explanation: <a href=1>Moon speak</a> is a jocular term for any language not based on the Latin alphaet.
+        explanation: <a href=1>Moon speak</a> is internet slang for Japanese, though it can apply to any non-Latin alphabetic language.
+        hrefs:
+          1: http://knowyourmeme.com/memes/moonspeak
         time: "6:18"
 
       - quote:
