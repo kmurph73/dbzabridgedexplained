@@ -395,9 +395,10 @@ episodes:
           - Goku: HE did it!
         time: "2:17"
         explanation: >
-          <a href=1>Icarus</a> is a young purple dragon that is one of Gohan's closest non-humanoid friends.  He's blown up by Turles in DBZ Tree of Might
+          <a href=1>Icarus</a> is a young purple dragon that is one of Gohan's closest non-humanoid friends.  He's <a href=2>blown up by Turles</a> in DBZ Tree of Might
         hrefs:
           1: http://dragonball.wikia.com/wiki/Icarus
+          2: http://youtu.be/LFS3yuWE8CY?t=39m39s
 
       - quote:
           - researcher1: So mister Spock, what do you make, of this...ship?
@@ -499,14 +500,16 @@ episodes:
           - goku: Now, before I start training… I need the right music to train to. Let’s see here.
           - sub: Goku Pushes buttons to cycle through songs
           - paul_stanley: "Live to Win"
-          - bill_conti: "Gonna Fly Now (Rocky Theme)"
+          - "bill_conti": "Gonna Fly Now (Rocky Theme)"
           - stan_bush: "Never Surrender"
           - team_america: "Montage"
           - lazy_town: "Cooking By the Book"
           - goku: Yaaay!
         explanation: Cooking By the Book is an <a href=1>old meme</a> from the ytmnd days.
+        time: "7:41"
         hrefs:
           1: http://knowyourmeme.com/memes/cooking-by-the-book
+          2: http://en.wikipedia.org/wiki/Gonna_Fly_Now
 
 
   - title: "Episode 16: Vam Qan Namek"
@@ -519,13 +522,15 @@ episodes:
           - sub: beginning of episode
           - namekian: And that's the story of the great drought.
           - sub: children laugh
+        time: "0:10"
         explanation: >
-          We learn in episode 30 that the great drought the result of Guru drinking all of the water (how do you think he got so fat?).
-          Naturally, he shifted the blame onto the Albino Namekians, and they never heard from them again
+          <p> We learn in episode 30 that the great drought the result of Guru drinking all of the water (how do you think he got so fat?).  </p>
+          <p> Naturally, he shifted the blame onto the Albino Namekians, and they never heard from them again </p>
 
       - quote:
           - vegeta: To be perfectly honest, you're not that different, you're just a lot less subtle about it OH MY GOD!  Ugh!  Agh!  (more grunting sounds)  Poit!  Zort!  Apples!
         explanation: <a href=1>'poit'</a> and <a href=2>'zort'</a> are from <a href=3>Pinky and the Brain</a>
+        time: "4:51"
         hrefs:
           1: http://www.urbandictionary.com/define.php?term=poit
           2: http://www.urbandictionary.com/define.php?term=zort
@@ -533,8 +538,22 @@ episodes:
           4: http://en.wikipedia.org/wiki/This_Old_House
 
       - quote:
+          - guru: So, the son of Katas has passed. Unfortunate.
+          - krillin: We just called him Kami.
+          - guru: Oh, so he calls himself God. Pretentious prick.
+        explanation: >
+          <p> <a href=1>Kami</a> is the Japanese word 'diety' </p>
+          <p> <a href=2>Katas</a> was an ancient Namekian and the father of the Nameless Namekian, who later separated into Kami and King Piccolo. </p>
+        hrefs:
+          1: http://en.wikipedia.org/wiki/Kami
+          2: http://dragonball.wikia.com/wiki/Katas
+        time: "8:39"
+
+      - quote:
           - king_kai: KAIO KEN!! It's in my f*cking name! Like "King Kai", as in Kaio-Sama! That is it! None of you are learning any of my techniques! Neither the Kaio Ken nor the Genki Dama!
           - tien: Freaking weeaboo.
+        time: "11:15"
+        tfs: http://teamfourstar.com/video/tfs-abridged-parody-episode-16/
         explanation: a <a href=1>weeaboo</a> is "Someone who is obsessed with Japan/Japanese Culture/Anime, etc. and attempts to act as if they were Japanese, even though they're far from it."
         hrefs:
           1: http://www.urbandictionary.com/define.php?term=weeaboo
@@ -551,11 +570,10 @@ episodes:
           - sub: ...
           - appule: You know, Vegeta, I got to admit it was pretty impressive how you went all man hunter on us. But now you're all ours, and I can't wait to watch Zarbon break you like a glue stick…  [Vegeta awakens]Here I come Eachpei!
         explanation: >
-          Eachpei is Appule's brother. Eachpei is a pun on Peach. 'Cause all of Freeza's henchmen are named after Fruit. [1]
-          Eachpei makes an appearance in the TFS Bardock Special, where he says 'Tell my brother, Appule, I love him!' before he's killed by Bardock.[2]
-        references:
-          1: http://teamfourstar.com/forums/showthread.php?8594-Joke-Explanations-For-Dummies-Thread&p=133947&viewfull=1#post133947
-          2: http://youtu.be/kIDHDif7fmo?t=8m54s
+          <p> Eachpei, whose name is a pun on 'peach', is Appule's brother.  </p>
+          <p>Eachpei makes an appearance in the TFS Bardock Special, where he says <a href=1>'Tell my brother, Appule, I love him!'</a> before he's killed by Bardock. </p>
+        hrefs:
+          1: http://youtu.be/kIDHDif7fmo?t=8m54s
 
       - quote:
           - vegeta: (To "A Lovely Bunch of Coconuts") I've got a lovely bunch of dragon balls, doo doo doo doo doo doo
@@ -568,9 +586,7 @@ episodes:
       - quote:
           - king_kai: He... hung up on me! How the hell did he even do that! Dammit, I'll call him back! Goku, I swear to God, I will ride your ass on this one!
           - george_takei: Oh my...
-        explanation: George Takei is a famously gay actor who played Mr. Sulu in Star Trek. <a href=1>HT</a>
-        hrefs:
-           1: http://teamfourstar.com/forums/showthread.php?8594-Joke-Explanations-For-Dummies-Thread&p=120543&viewfull=1#post120543
+        explanation: George Takei is a famously gay actor who played Mr. Sulu in Star Trek. 
 
   - title: "Episode 18: It's a Mad, Mad, Mad, Mad Saiyan"
     id: bsPujgqpx8w
@@ -644,6 +660,8 @@ episodes:
       - quote:
           - guldo: That's right, keep on your guard. Don't drop it, not even for an instant... Za Warudo!
           - krillin: What are you... going on about... *gets crushed by steam roller*
+        img: zawarudo.jpg
+        img-help: Za Warudo!
         explanation: >
           A reference to <a href=2>Dio Brando</a> of <a href=3>JoJo's Bizarre Adventure</a>.  Za Warudo is his special attack... where he <a href=1>drops a stream roller</a> on his opponent
         hrefs:
@@ -855,6 +873,9 @@ episodes:
         time: ""
         img: http://img3.wikia.nocookie.net/__cb20100512193551/dragonball/images/thumb/8/8d/KanassanOtherWorld.png/280px-KanassanOtherWorld.png
         img-help: Kanassan
+        hrefs:
+          1: http://dragonball.wikia.com/wiki/Planet_Kanassa
+          2: http://teamfourstar.wikia.com/wiki/Bardock
       - quote:
           - freeza: So, Namekian, what do you think of my third form?
           - piccolo: I think Ridley Scott’s gonna sue somebody.
@@ -902,6 +923,8 @@ episodes:
       - quote:
           - goku: Awesome.  I’ma deck you in the schnozz!!!
           - freeza: I’m sorry, that’s a new one.  Uh...who...are you, exactly?
-        explanation: reference to past episode
+        explanation: reference to Frieza's <a href=1>little hobby of keeping track of cliche one liners he hears so often</a>
+        hrefs:
+          1: http://youtu.be/ZTzOxQICJck?t=2m50s
         time: ""
 
