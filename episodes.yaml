@@ -855,6 +855,9 @@ episodes:
         time: ""
         img: http://img3.wikia.nocookie.net/__cb20100512193551/dragonball/images/thumb/8/8d/KanassanOtherWorld.png/280px-KanassanOtherWorld.png
         img-help: Kanassan
+        hrefs:
+          1: http://dragonball.wikia.com/wiki/Planet_Kanassa
+          2: http://teamfourstar.wikia.com/wiki/Bardock
       - quote:
           - freeza: So, Namekian, what do you think of my third form?
           - piccolo: I think Ridley Scott’s gonna sue somebody.
