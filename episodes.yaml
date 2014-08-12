@@ -564,7 +564,8 @@ episodes:
     id: VxoT3A4qgRo
     transcripts: http://tfsabridged.blogspot.com/2012/06/episode-17-lovely-bunch-of-dragonballs.html
     wikia: http://abridgedseries.wikia.com/wiki/TFS_Dragon_Ball_Z:_Abridged_Parody_Episode_3
-    info: A reference to "I've got a lovely bunch of coconuts" by Merv Griffin
+    info: A reference to "I've got a lovely bunch of coconuts" by Merv Griffin.  Vegeta sings it during the episode.  See below.
+
     quotes:
       - quote:
           - appule: "*Playing Dragonball Z video game* Take that you bastard! This one's for Eachpei!"
@@ -572,22 +573,26 @@ episodes:
           - sub: ...
           - appule: You know, Vegeta, I got to admit it was pretty impressive how you went all man hunter on us. But now you're all ours, and I can't wait to watch Zarbon break you like a glue stick…  [Vegeta awakens]Here I come Eachpei!
         explanation: >
-          <p> Eachpei, whose name is a pun on 'peach', is Appule's brother.  </p>
-          <p>Eachpei makes an appearance in the TFS Bardock Special, where he says <a href=1>'Tell my brother, Appule, I love him!'</a> before he's killed by Bardock. </p>
+          <p> Eachpei, whose name is a pun on 'peach' and whose persona is entirely an invention of TFS, is Appule's brother.  </p>
+          <p>Eachpei makes an appearance in the TFS Bardock Special, screaming <a href=1>'Tell my brother, Appule, I love him!'</a> before he's killed by Bardock. </p>
+        time: "1:17"
         hrefs:
           1: http://youtu.be/kIDHDif7fmo?t=8m54s
-
-      - quote:
-          - vegeta: (To "A Lovely Bunch of Coconuts") I've got a lovely bunch of dragon balls, doo doo doo doo doo doo
 
       - quote:
           - zarbon: Well, I thought he could handle it!
           - freeza: Appule couldn't handle a shot of raspberry schnapps much less Vegeta! Oh, where's the damn phone, I need to make another call.
         explanation: I just thought this was funny
+        time: "3:43"
 
+      - quote:
+          - vegeta: (To "A Lovely Bunch of Coconuts") I've got a lovely bunch of dragon balls, doo doo doo doo doo doo
+        time: "4:50"
+        
       - quote:
           - king_kai: He... hung up on me! How the hell did he even do that! Dammit, I'll call him back! Goku, I swear to God, I will ride your ass on this one!
           - george_takei: Oh my...
+        time: "7:15"
         explanation: George Takei is a famously gay actor who played Mr. Sulu in Star Trek. 
 
   - title: "Episode 18: It's a Mad, Mad, Mad, Mad Saiyan"
@@ -621,6 +626,16 @@ episodes:
       1: http://translate.google.com/#ja/en/%E5%88%B0%E7%9D%80%E3%82%92%E6%81%90%E6%80%96!!%20%E6%95%AC%E7%A4%BC%2C%20%E3%82%AE%E3%83%8B%E3%83%A5%E3%83%BC%E7%89%B9%E6%88%A6%E9%9A%8A!!
     quotes:
       - quote:
+          - freeza: Good. And they have the ringtone I wanted?
+          - ginyu: Yes Sir.
+          - sub: "Scouter plays Maximum the Hormone: F"
+          - scouter: Frieza, Frieza, Frieza, Frieza!
+        explanation: "'F' is a song by the band <a href=1>Maximum the Hormone</a>, a Japanese metal band"
+        time: "0:53"
+        references:
+          1: http://en.wikipedia.org/wiki/Maximum_the_Hormone
+
+      - quote:
           - gohan: Vegeta? You don't mind me asking, what are we in for?
           - vegeta: You ever watched Power Rangers?
           - gohan: No.
@@ -643,6 +658,7 @@ episodes:
           3: http://en.wikipedia.org/wiki/Superhuman_Samurai_Syber-Squad
           4: http://en.wikipedia.org/wiki/Tattooed_Teenage_Alien_Fighters_from_Beverly_Hills
         explanation: The shows are in descending order from most popular to least.
+        time: "3:23"
 
       - quote:
           - vegeta: We're all going to die anyway, so...baldie! Break the ball!
@@ -658,12 +674,14 @@ episodes:
           - vegeta: What the...when did you have time to set this up? And...is that a camera? What kind of sadistic retard watches this crap?
           - freeza: Love this show
         explanation: The Wheel of Death is apparently a recurring show that the Ginyu force like to put on and is beloved by Frieza.
+        time: "6:05"
 
       - quote:
           - guldo: That's right, keep on your guard. Don't drop it, not even for an instant... Za Warudo!
           - krillin: What are you... going on about... *gets crushed by steam roller*
         img: zawarudo.jpg
         img-help: Za Warudo!
+        time: "8:13"
         explanation: >
           A reference to <a href=2>Dio Brando</a> of <a href=3>JoJo's Bizarre Adventure</a>.  Za Warudo is his special attack... where he <a href=1>drops a stream roller</a> on his opponent
         hrefs:
@@ -671,20 +689,11 @@ episodes:
           2: http://jojo.wikia.com/wiki/Dio_Brando
           3: http://en.wikipedia.org/wiki/JoJo's_Bizarre_Adventure_(video_game)
 
-      - quote:
-          - freeza: Good. And they have the ringtone I wanted?
-          - ginyu: Yes Sir.
-          - sub: "Scouter plays Maximum the Hormone: F"
-          - scouter: Frieza, Frieza, Frieza, Frieza!
-        explanation: "'F' is a song by the band <a href=1>Maximum the Hormone</a>, a Japanese metal band"
-        references:
-          1: http://en.wikipedia.org/wiki/Maximum_the_Hormone
-
   - title: "Episode 20: Namekimania"
     id: 7zsZLN3Xjhc
     transcripts: http://tfsabridged.blogspot.com/2012/07/episode-20-namekimania-2011.html
     wikia: http://abridgedseries.wikia.com/wiki/TFS_Dragon_Ball_Z:_Abridged_Parody_Episode_20
-    info: A reference to <a href=1>Wrestlemania</a>.  The whole episode parodies it.  The battle resembles the tag-team, showboating style of pro wrestling.
+    info: A reference to <a href=1>Wrestlemania</a>.  The whole episode parodies it.  The battle paraodies the tag-team, showboating antics of pro wrestling.
     hrefs:
       1: http://en.wikipedia.org/wiki/WrestleMania
 
@@ -692,7 +701,7 @@ episodes:
       - quote:
           - recoome: HIT… RECOOOOOME'S MUSIC!  (*Evil Horde - Hangarmageddon starts playing*)
           - recoome: Vegeta, you think that just because you’re the prince of all Saiyans you're the best there is at what you do. But let Recoome tell you something brother! You ain’t no Wolverine! And you ain't got what it takes to step up, to a FIVE...TIME...CHAMPION!
-        explanation: <a href=1>Hangarmageddon</a> is a version of the E1M1, the theme song from <a href=2>Doom</a> (remember, Recoome rhymes with doom).  Also, Recoome is a parody of Hulk Hogan.
+        explanation: <a href=1>Hangarmageddon</a> is a version of the E1M1, the theme song from <a href=2>Doom</a> (remember, Recoome rhymes with doom).  Recoome is a caricature of the typical WWE muscle bound wrestler.
         hrefs:
           1: https://www.youtube.com/watch?v=oQs48dvebck&feature=kp
           2: http://en.wikipedia.org/wiki/Doom_(video_game)
@@ -700,7 +709,7 @@ episodes:
 
       - quote:
           - jeice: This fight right here is gonna be a bloomin' slobberknocker it is.
-        explanation: Bloomin' is an Australian slang term used to emphasize how good or bad something is, similar to the English slang term 'bloody'.  <a href=1>slobberknocker</a> is a slang term for a brutal fight
+        explanation: Jeice, being from Space Australia, naturally uses Australian vernacular.  Bloomin' is an Australian slang term used to emphasize how good or bad something is, similar to the English slang term 'bloody'.  <a href=1>slobberknocker</a> is a slang term for a brutal fight
         hrefs:
           1: http://www.urbandictionary.com/define.php?term=SLOBBERKNOCKER&defid=317817
         time: "1:40"
@@ -715,34 +724,28 @@ episodes:
           2: http://en.wiktionary.org/wiki/jabroni
 
       - quote:
-          - jeice: It doesn’t look like there’s anyone left who can stop Recoome! *Goku’s ship flies in* Wait… who’s THAT??
-          - background: >
-              *Rick Derringer’s "Real American", i.e. Hulk Hogan’s theme song, plays*
-          - song: >
-              When it comes crashing down and it hurts inside
-              You gotta take a stand it don’t help to hide
-              If you hurt my friends, then you hurt my pride
-              I gotta be the man
-              I can’t let it slide
-        explanation: Goku, like Hulk Hogan, is a Real American.
-
-      - quote:
-          - goku: Krillin, I’m not gonna kill them. They’re hardly even a threat.
-          - scene:   (In the style of "Mass Effect") * Vegeta kills Recoome and Burter *
-          - goku: Vegeta! That was not very Paragon!
-          - vegeta: Tch. Renegade for life.  ("Tokusentai" plays)
-        explanation: In Mass Effect, you can take your character down the Paragon (good) or Renegade (evil) path.  Vegeta is obviously a Renegade.
-        time: "1:42"
-
-      - quote:
           - commercial: And where can you find all this spectacular space food? At Spacey’s. Now with our new Raditz Menu. Spacey’s; it’s good food. In space
         explanation: Parody of the dollar menu.  Notice that the menu displays a double sunday -- Double Sunday was one of Raditz' attack in DBZ Budokai.
+        time: "3:25"
 
       - quote:
           - krillin: Hey!  Hey Gohan, look! He picked Vegeta.... like a-
           - gohan: Like a vegetable, yes.
+        time: "5:25"
         explanation: >
           Vegeta's name was inspired by "vegetable".
+
+      - quote:
+          - jeice: It doesn’t look like there’s anyone left who can stop Recoome! *Goku’s ship flies in* Wait… who’s THAT??
+          - background: Rick Derringer’s "Real American", i.e. Hulk Hogan’s theme song, plays
+          - song: >
+                <br/>When it comes crashing down and it hurts inside <br/>
+                You gotta take a stand it don’t help to hide <br/>
+                If you hurt my friends, then you hurt my pride <br/>
+                I gotta be the man <br/>
+                I can’t let it slide
+        explanation: Goku, like Hulk Hogan, is a Real American.
+        time: "9:47"
 
   - title: "Episode 21: Stop! Celebrate and Witness, Goku's Back From 100X Fitness!"
     id: ctd84NLgTxw
@@ -759,6 +762,14 @@ episodes:
         explanation: <a href=1>Burter</a> is named after butter (many of the evil dudes are named after foods)
         hrefs:
           1: http://dragonball.wikia.com/wiki/Burter
+
+      - quote:
+          - goku: Krillin, I’m not gonna kill them. They’re hardly even a threat.
+          - scene:   (In the style of "Mass Effect") * Vegeta kills Recoome and Burter *
+          - goku: Vegeta! That was not very Paragon!
+          - vegeta: Tch. Renegade for life.  ("Tokusentai" plays)
+        explanation: In Mass Effect, you can take your character down the Paragon (good) or Renegade (evil) path.  Vegeta is obviously a Renegade.
+        time: "9:14"
 
   - title: "Episode 22: The Good, the Bad, and the Purple"
     id: ctd84NLgTxw
