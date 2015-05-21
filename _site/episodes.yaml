@@ -119,9 +119,6 @@ episodes:
       - quote:
           - king_yemma: Mahogany!
         time: "2:33"
-        explanation: "<a href=1>This</a> guy has a decent explanation.  I honestly have no idea though"
-        hrefs:
-          1: http://teamfourstar.com/forums/showthread.php?8594-Joke-Explanations-For-Dummies-Thread&p=117905&viewfull=1#post117905
 
       - quote:
           - king_yemma: And not just any Mahogany, but mahogany from Malchior 7 where the trees are 300 ft tall and breathe fire.  From these trees my desk was forged 2000 years ago using ancient blood rituals of the Malchior people.
@@ -301,7 +298,7 @@ episodes:
           - vegeta: What- Nappa, what are you doing?
           - nappa: It's his turn Vegeta, I have to wait for him.
         time: "1:15"
-        explanation: I believe this is another FF7 reference, in which each side takes turns attacking.
+        explanation: I believe this is another FF7 reference, a turn-based game.
 
       - quote:
           - nappa: Oh you-a-making-me-so-mad! Vegeta, look. I'ma firing my BLARGH (face turns into Shoop the Whoop)
@@ -359,7 +356,7 @@ episodes:
           - Goku: AAAAAAAOOWWW!  That was in terrible ta-a-aste.
           - Oozaru_Vegeta: Don't care; evil.
         time: "2:08"
-        explanation: Christopher Reeves, former Superman actor, is paralyzed and thus is not 'walkin'.  Also, Vegeta's once again cognizant of being 'evil'.  See epsisode 10 at 2:16
+        explanation: Christopher Reeves, former Superman actor, is paralyzed and thus is not 'walkin'.  Also, Vegeta's once again cognizant of being 'evil'.  See episode 10 at 2:16
       - quote:
           - oozaru_Vegeta: Now, time to crush you like an Arlian.
           - Goku: A -- what?
@@ -599,17 +596,17 @@ episodes:
     id: bsPujgqpx8w
     transcripts: http://tfsabridged.blogspot.com/2012/06/episode-18-its-mad-mad-mad-mad-saiyan.html
     wikia: http://abridgedseries.wikia.com/wiki/TFS_Dragon_Ball_Z:_Abridged_Parody_Episode_3
-    info: Play on that <a href=1>Mad World</a> song
+    info: A reference to Stanley Kramer's movie <a href=1>It's a Mad, Mad, Mad, Mad World</a>.  Thanks to Luke for the correction.
     hrefs:
-      1: http://en.wikipedia.org/wiki/Mad_World
+      1: http://en.wikipedia.org/wiki/It%27s_a_Mad,_Mad,_Mad,_Mad_World
     quotes:
       - quote:
           - vegeta: "Ya know, I could kill both of you right now, but after killing Zarbon and getting this last Dragon Ball, I'm in a good mood.  I'm in a REALLY good mood.  But just remember this: Next time you see me, I WILL be immortal.  ...not that you stood a chance to begin with, I'm just.... Saiyan."
           - sub: laughter
           - vegeta: Waka waka!
-        explanation: <a href=1>This</a> is the only thing I could find
+        explanation: "'Waka Waka!' is a catchphrase of the muppet <a href=1>Fonzie the Bear</a>, who's infamous for his terrible jokes.  Thanks to David for pointing this out."
         hrefs:
-          1: http://en.wikipedia.org/wiki/Waka_Waka_(This_Time_for_Africa)
+          1: http://en.wikipedia.org/wiki/Fozzie_Bear
 
       - quote:
           - krillin: DO AS I SAY, FOR I AM THE HEAVENLY BUDDHA!
@@ -632,7 +629,7 @@ episodes:
           - scouter: Frieza, Frieza, Frieza, Frieza!
         explanation: "'F' is a song by the band <a href=1>Maximum the Hormone</a>, a Japanese metal band"
         time: "0:53"
-        references:
+        hrefs:
           1: http://en.wikipedia.org/wiki/Maximum_the_Hormone
 
       - quote:
@@ -664,7 +661,7 @@ episodes:
           - vegeta: We're all going to die anyway, so...baldie! Break the ball!
           - krillin: What? That I...
           - vegeta: Punch the damn thing!
-        explanation: In the original series, Vegeta told Krilling to break the ball (in the original, Guldo swiped it before he could punch it), despite the fact Krillin had no chance of doing any damage other than to himself.
+        explanation: In the original series, Vegeta told Krillin to break the ball (in the original, Guldo swiped it before he could punch it), despite the fact Krillin had no chance of doing any damage other than to himself.
         time: "5:18"
 
       - quote:
@@ -675,6 +672,16 @@ episodes:
           - freeza: Love this show
         explanation: The Wheel of Death is apparently a recurring show that the Ginyu force like to put on and is beloved by Frieza.
         time: "6:05"
+
+      - quote:
+          - geice: "Gotta be careful though Burter, space dingo will eat your space baby.  Like me sister... poor Sheila."
+        explanation: "<a href=1>'A Dingo ate my baby'</a> is an infamous phrase from an infamous case ... where an Australian baby <a href=2>actually was eaten by a Dingo</a>.  
+          The phrase has been endlessly parodied, perhaps most famously in <a href=3>Seinfeld</a> - thanks to David for pointing this out."
+        hrefs:
+          1: http://en.wikipedia.org/wiki/Dingoes_ate_my_baby
+          2: http://en.wikipedia.org/wiki/Death_of_Azaria_Chamberlain
+          3: https://www.youtube.com/watch?v=sYTIGXvc88Y
+        time: "7:13"
 
       - quote:
           - guldo: That's right, keep on your guard. Don't drop it, not even for an instant... Za Warudo!
@@ -693,7 +700,7 @@ episodes:
     id: 7zsZLN3Xjhc
     transcripts: http://tfsabridged.blogspot.com/2012/07/episode-20-namekimania-2011.html
     wikia: http://abridgedseries.wikia.com/wiki/TFS_Dragon_Ball_Z:_Abridged_Parody_Episode_20
-    info: A reference to <a href=1>Wrestlemania</a>.  The whole episode parodies it.  The battle paraodies the tag-team, showboating antics of pro wrestling.
+    info: A reference to <a href=1>Wrestlemania</a>.  The whole episode parodies it.  The battle parodies the tag-team, showboating antics of pro wrestling.
     hrefs:
       1: http://en.wikipedia.org/wiki/WrestleMania
 
@@ -725,7 +732,7 @@ episodes:
 
       - quote:
           - commercial: And where can you find all this spectacular space food? At Spacey’s. Now with our new Raditz Menu. Spacey’s; it’s good food. In space
-        explanation: Parody of the dollar menu.  Notice that the menu displays a double sunday -- Double Sunday was one of Raditz' attack in DBZ Budokai.
+        explanation: Parody of the dollar menu.  Notice that the menu displays a double sunday -- Double Sunday was one of Raditz' attack in DBZ Budokai.  Also Raditz is weak.
         time: "3:25"
 
       - quote:
@@ -768,7 +775,7 @@ episodes:
           - scene:   (In the style of "Mass Effect") * Vegeta kills Recoome and Burter *
           - goku: Vegeta! That was not very Paragon!
           - vegeta: Tch. Renegade for life.  ("Tokusentai" plays)
-        explanation: In Mass Effect, you can take your character down the Paragon (good) or Renegade (evil) path.  Vegeta is obviously a Renegade.
+        explanation: In Mass Effect, you can take your character down the Paragon (good) or Renegade (evil) path.  Vegeta is obviously Renegade.
         time: "9:14"
 
   - title: "Episode 22: The Good, the Bad, and the Purple"
