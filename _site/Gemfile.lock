@@ -106,3 +106,7 @@ DEPENDENCIES
   guard-shell
   haml
   jekyll
+  sass
+
+BUNDLED WITH
+   1.10.5

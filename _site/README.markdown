@@ -1,1 +1,1 @@
-http://dbzabridgedexplained.com
+http://www.dbzabridgedexplained.com
